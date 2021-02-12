@@ -10,10 +10,34 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_02_16_021312) do
+ActiveRecord::Schema.define(version: 2021_02_16_165034) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "pokemon_info", force: :cascade do |t|
+    t.bigint "pokemons_id", null: false
+    t.integer "weight", default: 0, null: false
+    t.integer "height", default: 0, null: false
+    t.string "stats", null: false, array: true
+    t.string "abilities", null: false, array: true
+    t.string "moves", null: false, array: true
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["pokemons_id"], name: "index_pokemon_info_on_pokemons_id"
+  end
+
+  create_table "pokemon_infos", force: :cascade do |t|
+    t.bigint "pokemon_id", null: false
+    t.integer "height", default: 0, null: false
+    t.integer "weight", default: 0, null: false
+    t.string "abilities", array: true
+    t.string "moves", array: true
+    t.string "stats", array: true
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["pokemon_id"], name: "index_pokemon_infos_on_pokemon_id"
+  end
 
   create_table "pokemons", force: :cascade do |t|
     t.string "name"
@@ -23,4 +47,6 @@ ActiveRecord::Schema.define(version: 2021_02_16_021312) do
     t.string "types", array: true
   end
 
+  add_foreign_key "pokemon_info", "pokemons", column: "pokemons_id"
+  add_foreign_key "pokemon_infos", "pokemons"
 end
