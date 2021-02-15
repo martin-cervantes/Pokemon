@@ -1,13 +1,18 @@
 <p id="notice"><%= notice %></p>
 
 <p>
+  <strong>Id:</strong>
+  <%= @pokemon.id %>
+</p>
+
+<p>
   <strong>Name:</strong>
   <%= @pokemon.name %>
 </p>
 
 <p>
   <strong>Type:</strong>
-  <%= @pokemon.type %>
+  <%= @pokemon.types %>
 </p>
 
 <p>
@@ -15,5 +20,8 @@
   <%= @pokemon.image %>
 </p>
 
-<%= link_to 'Edit', edit_pokemon_path(@pokemon) %> |
+<img height="150px" src="<%= @pokemon.image %>" />
+
+<br />
+
 <%= link_to 'Back', pokemons_path %>
