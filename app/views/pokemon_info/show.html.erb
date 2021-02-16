@@ -1,0 +1,50 @@
+<p>
+  <strong>Id:</strong>
+  <%= @pokemon.id %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @pokemon.name %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @pokemon.types %>
+</p>
+
+<p>
+  <strong>Image URL:</strong>
+  <%= @pokemon.image %>
+</p>
+
+<img height="150px" src="<%= @pokemon.image %>" />
+
+<p>
+  <strong>Height:</strong>
+  <%= @pokemon_info.height %>
+</p>
+
+<p>
+  <strong>Weight:</strong>
+  <%= @pokemon_info.weight %>
+</p>
+
+<p>
+  <strong>Abilities:</strong>
+  <%= @pokemon_info.abilities %>
+</p>
+
+<p>
+  <strong>Moves:</strong>
+  <%= @pokemon_info.moves %>
+</p>
+
+<p>
+  <strong>Stats:</strong>
+  <%= @pokemon_info.stats %>
+</p>
+
+<br />
+
+<%= link_to 'Back', :back %>
