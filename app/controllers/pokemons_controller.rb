@@ -1,11 +1,11 @@
 class PokemonsController < ApplicationController
-  # GET /pokemons or /pokemons.json
+  # GET /pokemons
   def index
     @pokemons = Pokemon.all
   end
 
-  # GET /pokemons/1 or /pokemons/1.json
+  # GET /pokemons/50.json
   def show
-    @pokemon = Pokemon.find(params[:id])
+    @pokemons = Pokemon.find(params[:id])
   end
 end
