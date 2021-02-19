@@ -1,24 +1,99 @@
-# README
+# Pokemon API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This API is to improve the operation of the Pokedex project. Send the necessary elements and data according to the operation.
 
-Things you may want to cover:
+## :package: Built With
 
-* Ruby version
+- Ruby
+- Ruby on rails
 
-* System dependencies
+## :mag: Live Demo
 
-* Configuration
+[Live Demo Link](https://pokemons-api-project.herokuapp.com/pokemons/50/)
 
-* Database creation
+## :computer: Getting Started
 
-* Database initialization
+| Verb   | URI                          |
+| ------ |:----------------------------:|
+| GET    | /pokemons/:id(.:format)      |
+| GET    | /pokemon_info/:id(.:format)  |
 
-* How to run the test suite
+To get a local copy up and running follow these simple steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Download
 
-* Deployment instructions
+1) Clone the repository to your local machine
 
-* ...
+```sh
+  $ git clone https://github.com/mcervantes71/Pokemon_API.git
+```
+
+2) cd into the directory
+
+```sh
+  $ cd Pokemon_API
+```
+
+### Setup
+
+Install gems with:
+
+```sh
+  $ bundle install
+```
+
+Setup database with:
+
+```sh
+  $ rails db:create
+  $ rails db:migrate
+```
+
+Populating the database with:
+
+```sh
+  $ rails db:seed
+```
+
+### Usage
+
+run localhost server:
+
+```sh
+  $ rails server
+```
+
+if presented with and `Error` message similar to this:
+
+![image](./docs/error.png)
+
+Run:
+
+```sh
+  $ yarn install --check-files
+```
+
+## :busts_in_silhouette: Author
+
+👤 **Martin Cervantes**
+
+- Linkedin: [Martin Cervantes](https://www.linkedin.com/in/cervantesmartin/)
+- Twitter: [@M4rt1nC3rv4nt3s](https://twitter.com/M4rt1nC3rv4nt3s)
+- Github: [@mcervantes71](https://github.com/mcervantes71)
+- Gmail: [cervantes.martine](mailto:cervantes.martine@gmail.com)
+
+:pencil2: Design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues).
+
+## :star2: Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
