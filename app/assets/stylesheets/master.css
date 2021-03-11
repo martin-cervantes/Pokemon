@@ -88,11 +88,21 @@ header {
 }
 
 .pokemon_name {
+  background-color: silver;
+  border: 1px solid silver;
+  color: black;
   font-family: 'Roboto', sans-serif;
   font-size: 2.5rem;
   font-weight: 900;
   padding-top: 0.5rem;
   text-align: center;
+  text-decoration: none;
+}
+
+.pokemon_name:hover {
+  background-color: white;
+  border: 1px solid white;
+  color: #0f62f0;
 }
 
 .pokemon_num {
@@ -200,30 +210,22 @@ li {
   list-style-type: disc;
 }
 
-.button {
-  display: flex;
-  font-size: 2rem;
-  justify-content: center;
-  padding: 0.5rem;
-}
-
-button {
+.back {
   background-color: silver;
   border: 1px solid silver;
   color: black;
-}
-
-button:hover {
-  background-color: white;
-  border: 1px solid white;
-  color: #0f62f0;
-}
-
-.back {
   font-size: 2rem;
   font-weight: 900;
   margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
   width: 15rem;
+}
+
+.back:hover {
+  background-color: white;
+  border: 1px solid white;
+  color: #0f62f0;
 }
 
 /* types */

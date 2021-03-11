@@ -1,10 +1,8 @@
 import React from "react";
-import { useHistory } from 'react-router-dom';
+import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
 
 const Pokemon = ({ data }) => {
-  const history = useHistory();
-
   const {
     id,
     name,
@@ -15,9 +13,13 @@ const Pokemon = ({ data }) => {
     <div className="pokemon_container">
       <img className="pokemon_img" src={image} alt={name} />
 
-      <button type="button" className="pokemon_name" onClick={() => history.push(`/pokemon/${id}`)}>
+      <Link
+        type="button"
+        className="pokemon_name"
+        to={`/pokemon/${id}`}
+      >
         {name}
-      </button>
+      </Link>
 
       <div className="pokemon_num">{id}</div>
     </div>

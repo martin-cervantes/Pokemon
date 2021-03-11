@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
@@ -8,10 +9,9 @@ class Details extends React.Component {
   constructor(props) {
     super(props);
 
-    const { fetchPokemonInfo, match, history } = this.props;
+    const { fetchPokemonInfo, match } = this.props;
     const { id } = match.params;
     this.id = id;
-    this.history = history;
     fetchPokemonInfo(id);
     window.scrollTo(0, 0);
 
@@ -25,7 +25,7 @@ class Details extends React.Component {
   }
 
   componentDidUpdate() {
-    const url = 'https://pokemons-api-project.herokuapp.com/pokemon_info/';
+    const url = '/pokemon_info/';
 
     fetch(`${url}${this.id}`)
       .then(response => response.json())
@@ -99,7 +99,13 @@ class Details extends React.Component {
           </ul>
         </div>
 
-        <button type="button" className="back" onClick={this.history.goBack}>Back</button>
+        <Link
+          type="button"
+          className="back"
+          to="/"
+        >
+          Back
+        </Link>
       </div>
     );
   }
