@@ -21,7 +21,7 @@ This API is to improve the operation of the Pokedex project. Send the necessary 
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://pokemons-api-project.herokuapp.com/pokemons/50/)
+[Live Demo Link](https://pokemons-api-project.herokuapp.com)
 
 ## :computer: Getting Started
 
