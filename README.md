@@ -1,4 +1,4 @@
-# Pokemon API
+# Pokemon
 
 This API is to improve the operation of the Pokedex project. Send the necessary elements and data according to the operation.
 
@@ -32,13 +32,13 @@ To get a local copy up and running follow these simple steps.
 1) Clone the repository to your local machine
 
 ```sh
-  $ git clone https://github.com/mcervantes71/Pokemon_API.git
+  $ git clone https://github.com/mcervantes71/Pokemon.git
 ```
 
 2) cd into the directory
 
 ```sh
-  $ cd Pokemon_API
+  $ cd Pokemon
 ```
 
 ### Setup
