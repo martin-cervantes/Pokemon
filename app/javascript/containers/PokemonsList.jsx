@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
@@ -38,7 +39,7 @@ const PokemonsList = ({
             .map(pokemon => <Pokemon key={uuidv4()} data={pokemon} />)
         }
       </div>
-      { count <= 650 ? <button id="add_more_button" type="button" onClick={() => addMorePokemons()}>More Pokemons</button> : '' }
+      { count <= 650 ? <Link type="button" className="add_more_button button" to="/" onClick={() => addMorePokemons()}>More Pokemons</Link> : '' }
     </div>
   );
 };

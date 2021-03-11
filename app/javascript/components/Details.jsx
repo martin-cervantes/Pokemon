@@ -101,7 +101,7 @@ class Details extends React.Component {
 
         <Link
           type="button"
-          className="back"
+          className="back button"
           to="/"
         >
           Back

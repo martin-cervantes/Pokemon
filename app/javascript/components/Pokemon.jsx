@@ -15,7 +15,7 @@ const Pokemon = ({ data }) => {
 
       <Link
         type="button"
-        className="pokemon_name"
+        className="pokemon_name button"
         to={`/pokemon/${id}`}
       >
         {name}
