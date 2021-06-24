@@ -3915,6 +3915,1500 @@ p.types = [Bug,Steel]
 p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png"
 p.save
 
+p = Pokemon.new
+p.name = "Chespin"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
+p.save
+
+p = Pokemon.new
+p.name = "Quilladin"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
+p.save
+
+p = Pokemon.new
+p.name = "Chesnaught"
+p.types = [Grass,Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png"
+p.save
+
+p = Pokemon.new
+p.name = "Fennekin"
+p.types = [Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png"
+p.save
+
+p = Pokemon.new
+p.name = "Braixen"
+p.types = [Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png"
+p.save
+
+p = Pokemon.new
+p.name = "Delphox"
+p.types = [Fire,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
+p.save
+
+p = Pokemon.new
+p.name = "Froakie"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png"
+p.save
+
+p = Pokemon.new
+p.name = "Frogadier"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png"
+p.save
+
+p = Pokemon.new
+p.name = "Greninja"
+p.types = [Water,Dark]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+p.save
+
+p = Pokemon.new
+p.name = "Bunnelby"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
+p.save
+
+p = Pokemon.new
+p.name = "Diggersby"
+p.types = [Normal,Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
+p.save
+
+p = Pokemon.new
+p.name = "Fletchling"
+p.types = [Normal,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
+p.save
+
+p = Pokemon.new
+p.name = "Fletchinder"
+p.types = [Fire,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png"
+p.save
+
+p = Pokemon.new
+p.name = "Talonflame"
+p.types = [Fire,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
+p.save
+
+p = Pokemon.new
+p.name = "Scatterbug"
+p.types = [Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+p.save
+
+p = Pokemon.new
+p.name = "Spewpa"
+p.types = [Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png"
+p.save
+
+p = Pokemon.new
+p.name = "Vivillon"
+p.types = [Bug,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png"
+p.save
+
+p = Pokemon.new
+p.name = "Litleo"
+p.types = [Fire,Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pyroar"
+p.types = [Fire,Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png"
+p.save
+
+p = Pokemon.new
+p.name = "Flabebe"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+p.save
+
+p = Pokemon.new
+p.name = "Floette"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png"
+p.save
+
+p = Pokemon.new
+p.name = "Florges"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+p.save
+
+p = Pokemon.new
+p.name = "Skiddo"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png"
+p.save
+
+p = Pokemon.new
+p.name = "Gogoat"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pancham"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pangoro"
+p.types = [Fighting,Dark]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
+p.save
+
+p = Pokemon.new
+p.name = "Furfrou"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
+p.save
+
+p = Pokemon.new
+p.name = "Espurr"
+p.types = [Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png"
+p.save
+
+p = Pokemon.new
+p.name = "Meowstic-male"
+p.types = [Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png"
+p.save
+
+p = Pokemon.new
+p.name = "Honedge"
+p.types = [Steel,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png"
+p.save
+
+p = Pokemon.new
+p.name = "Doublade"
+p.types = [Steel,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png"
+p.save
+
+p = Pokemon.new
+p.name = "Aegislash-shield"
+p.types = [Steel,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png"
+p.save
+
+p = Pokemon.new
+p.name = "Spritzee"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png"
+p.save
+
+p = Pokemon.new
+p.name = "Aromatisse"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png"
+p.save
+
+p = Pokemon.new
+p.name = "Swirlix"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png"
+p.save
+
+p = Pokemon.new
+p.name = "Slurpuff"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png"
+p.save
+
+p = Pokemon.new
+p.name = "Inkay"
+p.types = [Dark,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png"
+p.save
+
+p = Pokemon.new
+p.name = "Malamar"
+p.types = [Dark,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
+p.save
+
+p = Pokemon.new
+p.name = "Binacle"
+p.types = [Rock,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+p.save
+
+p = Pokemon.new
+p.name = "Barbaracle"
+p.types = [Rock,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png"
+p.save
+
+p = Pokemon.new
+p.name = "Skrelp"
+p.types = [Poison,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dragalge"
+p.types = [Poison,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
+p.save
+
+p = Pokemon.new
+p.name = "Clauncher"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png"
+p.save
+
+p = Pokemon.new
+p.name = "Clawitzer"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png"
+p.save
+
+p = Pokemon.new
+p.name = "Helioptile"
+p.types = [Electric,Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
+p.save
+
+p = Pokemon.new
+p.name = "Heliolisk"
+p.types = [Electric,Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png"
+p.save
+
+p = Pokemon.new
+p.name = "Tyrunt"
+p.types = [Rock,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png"
+p.save
+
+p = Pokemon.new
+p.name = "Tyrantrum"
+p.types = [Rock,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+p.save
+
+p = Pokemon.new
+p.name = "Amaura"
+p.types = [Rock,Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
+p.save
+
+p = Pokemon.new
+p.name = "Aurorus"
+p.types = [Rock,Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sylveon"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
+p.save
+
+p = Pokemon.new
+p.name = "Hawlucha"
+p.types = [Fighting,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dedenne"
+p.types = [Electric,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
+p.save
+
+p = Pokemon.new
+p.name = "Carbink"
+p.types = [Rock,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+p.save
+
+p = Pokemon.new
+p.name = "Goomy"
+p.types = [Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sliggoo"
+p.types = [Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png"
+p.save
+
+p = Pokemon.new
+p.name = "Goodra"
+p.types = [Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
+p.save
+
+p = Pokemon.new
+p.name = "Klefki"
+p.types = [Steel,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png"
+p.save
+
+p = Pokemon.new
+p.name = "Phantump"
+p.types = [Ghost,Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png"
+p.save
+
+p = Pokemon.new
+p.name = "Trevenant"
+p.types = [Ghost,Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pumpkaboo-average"
+p.types = [Ghost,Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png"
+p.save
+
+p = Pokemon.new
+p.name = "Gourgeist-average"
+p.types = [Ghost,Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png"
+p.save
+
+p = Pokemon.new
+p.name = "Bergmite"
+p.types = [Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png"
+p.save
+
+p = Pokemon.new
+p.name = "Avalugg"
+p.types = [Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
+p.save
+
+p = Pokemon.new
+p.name = "Noibat"
+p.types = [Flying,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
+p.save
+
+p = Pokemon.new
+p.name = "Noivern"
+p.types = [Flying,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
+p.save
+
+p = Pokemon.new
+p.name = "Xerneas"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+p.save
+
+p = Pokemon.new
+p.name = "Yveltal"
+p.types = [Dark,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png"
+p.save
+
+p = Pokemon.new
+p.name = "Zygarde"
+p.types = [Dragon,Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+p.save
+
+p = Pokemon.new
+p.name = "Diancie"
+p.types = [Rock,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png"
+p.save
+
+p = Pokemon.new
+p.name = "Hoopa"
+p.types = [Psychic,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
+p.save
+
+p = Pokemon.new
+p.name = "Volcanion"
+p.types = [Fire,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png"
+p.save
+
+p = Pokemon.new
+p.name = "Rowlet"
+p.types = [Grass,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dartrix"
+p.types = [Grass,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png"
+p.save
+
+p = Pokemon.new
+p.name = "Decidueye"
+p.types = [Grass,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png"
+p.save
+
+p = Pokemon.new
+p.name = "Litten"
+p.types = [Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png"
+p.save
+
+p = Pokemon.new
+p.name = "Torracat"
+p.types = [Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png"
+p.save
+
+p = Pokemon.new
+p.name = "Incineroar"
+p.types = [Fire,Dark]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png"
+p.save
+
+p = Pokemon.new
+p.name = "Popplio"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png"
+p.save
+
+p = Pokemon.new
+p.name = "Brionne"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png"
+p.save
+
+p = Pokemon.new
+p.name = "Primarina"
+p.types = [Water,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pikipek"
+p.types = [Normal,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
+p.save
+
+p = Pokemon.new
+p.name = "Trumbeak"
+p.types = [Normal,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
+p.save
+
+p = Pokemon.new
+p.name = "Toucannon"
+p.types = [Normal,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
+p.save
+
+p = Pokemon.new
+p.name = "Yungoos"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
+p.save
+
+p = Pokemon.new
+p.name = "Gumshoos"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
+p.save
+
+p = Pokemon.new
+p.name = "Grubbin"
+p.types = [Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png"
+p.save
+
+p = Pokemon.new
+p.name = "Charjabug"
+p.types = [Bug,Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png"
+p.save
+
+p = Pokemon.new
+p.name = "Vikavolt"
+p.types = [Bug,Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png"
+p.save
+
+p = Pokemon.new
+p.name = "Crabrawler"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png"
+p.save
+
+p = Pokemon.new
+p.name = "Crabominable"
+p.types = [Fighting,Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
+p.save
+
+p = Pokemon.new
+p.name = "Oricorio-baile"
+p.types = [Fire,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
+p.save
+
+p = Pokemon.new
+p.name = "Cutiefly"
+p.types = [Bug,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+p.save
+
+p = Pokemon.new
+p.name = "Ribombee"
+p.types = [Bug,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png"
+p.save
+
+p = Pokemon.new
+p.name = "Rockruff"
+p.types = [Rock]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+p.save
+
+p = Pokemon.new
+p.name = "Lycanroc-midday"
+p.types = [Rock]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png"
+p.save
+
+p = Pokemon.new
+p.name = "Wishiwashi-solo"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png"
+p.save
+
+p = Pokemon.new
+p.name = "Mareanie"
+p.types = [Poison,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png"
+p.save
+
+p = Pokemon.new
+p.name = "Toxapex"
+p.types = [Poison,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
+p.save
+
+p = Pokemon.new
+p.name = "Mudbray"
+p.types = [Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
+p.save
+
+p = Pokemon.new
+p.name = "Mudsdale"
+p.types = [Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dewpider"
+p.types = [Water,Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
+p.save
+
+p = Pokemon.new
+p.name = "Araquanid"
+p.types = [Water,Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png"
+p.save
+
+p = Pokemon.new
+p.name = "Fomantis"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png"
+p.save
+
+p = Pokemon.new
+p.name = "Lurantis"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
+p.save
+
+p = Pokemon.new
+p.name = "Morelull"
+p.types = [Grass,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png"
+p.save
+
+p = Pokemon.new
+p.name = "Shiinotic"
+p.types = [Grass,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png"
+p.save
+
+p = Pokemon.new
+p.name = "Salandit"
+p.types = [Poison,Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png"
+p.save
+
+p = Pokemon.new
+p.name = "Salazzle"
+p.types = [Poison,Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png"
+p.save
+
+p = Pokemon.new
+p.name = "Stufful"
+p.types = [Normal,Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png"
+p.save
+
+p = Pokemon.new
+p.name = "Bewear"
+p.types = [Normal,Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
+p.save
+
+p = Pokemon.new
+p.name = "Bounsweet"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png"
+p.save
+
+p = Pokemon.new
+p.name = "Steenee"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png"
+p.save
+
+p = Pokemon.new
+p.name = "Tsareena"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
+p.save
+
+p = Pokemon.new
+p.name = "Comfey"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png"
+p.save
+
+p = Pokemon.new
+p.name = "Oranguru"
+p.types = [Normal,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png"
+p.save
+
+p = Pokemon.new
+p.name = "Passimian"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png"
+p.save
+
+p = Pokemon.new
+p.name = "Wimpod"
+p.types = [Bug,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png"
+p.save
+
+p = Pokemon.new
+p.name = "Golisopod"
+p.types = [Bug,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sandygast"
+p.types = [Ghost,Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png"
+p.save
+
+p = Pokemon.new
+p.name = "Palossand"
+p.types = [Ghost,Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pyukumuku"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png"
+p.save
+
+p = Pokemon.new
+p.name = "Type-null"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png"
+p.save
+
+p = Pokemon.new
+p.name = "Silvally"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png"
+p.save
+
+p = Pokemon.new
+p.name = "Minior-red-meteor"
+p.types = [Rock,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png"
+p.save
+
+p = Pokemon.new
+p.name = "Komala"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png"
+p.save
+
+p = Pokemon.new
+p.name = "Turtonator"
+p.types = [Fire,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png"
+p.save
+
+p = Pokemon.new
+p.name = "Togedemaru"
+p.types = [Electric,Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png"
+p.save
+
+p = Pokemon.new
+p.name = "Mimikyu-disguised"
+p.types = [Ghost,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
+p.save
+
+p = Pokemon.new
+p.name = "Bruxish"
+p.types = [Water,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png"
+p.save
+
+p = Pokemon.new
+p.name = "Drampa"
+p.types = [Normal,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dhelmise"
+p.types = [Ghost,Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
+p.save
+
+p = Pokemon.new
+p.name = "Jangmo-o"
+p.types = [Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
+p.save
+
+p = Pokemon.new
+p.name = "Hakamo-o"
+p.types = [Dragon,Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
+p.save
+
+p = Pokemon.new
+p.name = "Kommo-o"
+p.types = [Dragon,Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
+p.save
+
+p = Pokemon.new
+p.name = "Tapu-koko"
+p.types = [Electric,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
+p.save
+
+p = Pokemon.new
+p.name = "Tapu-lele"
+p.types = [Psychic,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
+p.save
+
+p = Pokemon.new
+p.name = "Tapu-bulu"
+p.types = [Grass,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png"
+p.save
+
+p = Pokemon.new
+p.name = "Tapu-fini"
+p.types = [Water,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
+p.save
+
+p = Pokemon.new
+p.name = "Cosmog"
+p.types = [Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
+p.save
+
+p = Pokemon.new
+p.name = "Cosmoem"
+p.types = [Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png"
+p.save
+
+p = Pokemon.new
+p.name = "Solgaleo"
+p.types = [Psychic,Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png"
+p.save
+
+p = Pokemon.new
+p.name = "Lunala"
+p.types = [Psychic,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png"
+p.save
+
+p = Pokemon.new
+p.name = "Nihilego"
+p.types = [Rock,Poison]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png"
+p.save
+
+p = Pokemon.new
+p.name = "Buzzwole"
+p.types = [Bug,Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pheromosa"
+p.types = [Bug,Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png"
+p.save
+
+p = Pokemon.new
+p.name = "Xurkitree"
+p.types = [Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
+p.save
+
+p = Pokemon.new
+p.name = "Celesteela"
+p.types = [Steel,Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
+p.save
+
+p = Pokemon.new
+p.name = "Kartana"
+p.types = [Grass,Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png"
+p.save
+
+p = Pokemon.new
+p.name = "Guzzlord"
+p.types = [Dark,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png"
+p.save
+
+p = Pokemon.new
+p.name = "Necrozma"
+p.types = [Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png"
+p.save
+
+p = Pokemon.new
+p.name = "Magearna"
+p.types = [Steel,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png"
+p.save
+
+p = Pokemon.new
+p.name = "Marshadow"
+p.types = [Fighting,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png"
+p.save
+
+p = Pokemon.new
+p.name = "Poipole"
+p.types = [Poison]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png"
+p.save
+
+p = Pokemon.new
+p.name = "Naganadel"
+p.types = [Poison,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
+p.save
+
+p = Pokemon.new
+p.name = "Stakataka"
+p.types = [Rock,Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png"
+p.save
+
+p = Pokemon.new
+p.name = "Blacephalon"
+p.types = [Fire,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png"
+p.save
+
+p = Pokemon.new
+p.name = "Zeraora"
+p.types = [Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png"
+p.save
+
+p = Pokemon.new
+p.name = "Meltan"
+p.types = [Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png"
+p.save
+
+p = Pokemon.new
+p.name = "Melmetal"
+p.types = [Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
+p.save
+
+p = Pokemon.new
+p.name = "Grookey"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png"
+p.save
+
+p = Pokemon.new
+p.name = "Thwackey"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png"
+p.save
+
+p = Pokemon.new
+p.name = "Rillaboom"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png"
+p.save
+
+p = Pokemon.new
+p.name = "Scorbunny"
+p.types = [Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png"
+p.save
+
+p = Pokemon.new
+p.name = "Raboot"
+p.types = [Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
+p.save
+
+p = Pokemon.new
+p.name = "Cinderace"
+p.types = [Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sobble"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
+p.save
+
+p = Pokemon.new
+p.name = "Drizzile"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png"
+p.save
+
+p = Pokemon.new
+p.name = "Inteleon"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png"
+p.save
+
+p = Pokemon.new
+p.name = "Skwovet"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png"
+p.save
+
+p = Pokemon.new
+p.name = "Greedent"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png"
+p.save
+
+p = Pokemon.new
+p.name = "Rookidee"
+p.types = [Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png"
+p.save
+
+p = Pokemon.new
+p.name = "Corvisquire"
+p.types = [Flying]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png"
+p.save
+
+p = Pokemon.new
+p.name = "Corviknight"
+p.types = [Flying,Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
+p.save
+
+p = Pokemon.new
+p.name = "Blipbug"
+p.types = [Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dottler"
+p.types = [Bug,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png"
+p.save
+
+p = Pokemon.new
+p.name = "Orbeetle"
+p.types = [Bug,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png"
+p.save
+
+p = Pokemon.new
+p.name = "Nickit"
+p.types = [Dark]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
+p.save
+
+p = Pokemon.new
+p.name = "Thievul"
+p.types = [Dark]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png"
+p.save
+
+p = Pokemon.new
+p.name = "Gossifleur"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png"
+p.save
+
+p = Pokemon.new
+p.name = "Eldegoss"
+p.types = [Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png"
+p.save
+
+p = Pokemon.new
+p.name = "Wooloo"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dubwool"
+p.types = [Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png"
+p.save
+
+p = Pokemon.new
+p.name = "Chewtle"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
+p.save
+
+p = Pokemon.new
+p.name = "Drednaw"
+p.types = [Water,Rock]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
+p.save
+
+p = Pokemon.new
+p.name = "Yamper"
+p.types = [Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png"
+p.save
+
+p = Pokemon.new
+p.name = "Boltund"
+p.types = [Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png"
+p.save
+
+p = Pokemon.new
+p.name = "Rolycoly"
+p.types = [Rock]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
+p.save
+
+p = Pokemon.new
+p.name = "Carkol"
+p.types = [Rock,Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png"
+p.save
+
+p = Pokemon.new
+p.name = "Coalossal"
+p.types = [Rock,Fire]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png"
+p.save
+
+p = Pokemon.new
+p.name = "Applin"
+p.types = [Grass,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png"
+p.save
+
+p = Pokemon.new
+p.name = "Flapple"
+p.types = [Grass,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
+p.save
+
+p = Pokemon.new
+p.name = "Appletun"
+p.types = [Grass,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png"
+p.save
+
+p = Pokemon.new
+p.name = "Silicobra"
+p.types = [Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sandaconda"
+p.types = [Ground]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
+p.save
+
+p = Pokemon.new
+p.name = "Cramorant"
+p.types = [Flying,Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png"
+p.save
+
+p = Pokemon.new
+p.name = "Arrokuda"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png"
+p.save
+
+p = Pokemon.new
+p.name = "Barraskewda"
+p.types = [Water]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png"
+p.save
+
+p = Pokemon.new
+p.name = "Toxel"
+p.types = [Electric,Poison]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png"
+p.save
+
+p = Pokemon.new
+p.name = "Toxtricity-amped"
+p.types = [Electric,Poison]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sizzlipede"
+p.types = [Fire,Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png"
+p.save
+
+p = Pokemon.new
+p.name = "Centiskorch"
+p.types = [Fire,Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png"
+p.save
+
+p = Pokemon.new
+p.name = "Clobbopus"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png"
+p.save
+
+p = Pokemon.new
+p.name = "Grapploct"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sinistea"
+p.types = [Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
+p.save
+
+p = Pokemon.new
+p.name = "Polteageist"
+p.types = [Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png"
+p.save
+
+p = Pokemon.new
+p.name = "Hatenna"
+p.types = [Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png"
+p.save
+
+p = Pokemon.new
+p.name = "Hattrem"
+p.types = [Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+p.save
+
+p = Pokemon.new
+p.name = "Hatterene"
+p.types = [Psychic,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png"
+p.save
+
+p = Pokemon.new
+p.name = "Impidimp"
+p.types = [Dark,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png"
+p.save
+
+p = Pokemon.new
+p.name = "Morgrem"
+p.types = [Dark,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png"
+p.save
+
+p = Pokemon.new
+p.name = "Grimmsnarl"
+p.types = [Dark,Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
+p.save
+
+p = Pokemon.new
+p.name = "Obstagoon"
+p.types = [Dark,Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png"
+p.save
+
+p = Pokemon.new
+p.name = "Perrserker"
+p.types = [Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
+p.save
+
+p = Pokemon.new
+p.name = "Cursola"
+p.types = [Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png"
+p.save
+
+p = Pokemon.new
+p.name = "Sirfetchd"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
+p.save
+
+p = Pokemon.new
+p.name = "Mr-rime"
+p.types = [Ice,Psychic]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png"
+p.save
+
+p = Pokemon.new
+p.name = "Runerigus"
+p.types = [Ground,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png"
+p.save
+
+p = Pokemon.new
+p.name = "Milcery"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+p.save
+
+p = Pokemon.new
+p.name = "Alcremie"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png"
+p.save
+
+p = Pokemon.new
+p.name = "Falinks"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+p.save
+
+p = Pokemon.new
+p.name = "Pincurchin"
+p.types = [Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png"
+p.save
+
+p = Pokemon.new
+p.name = "Snom"
+p.types = [Ice,Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png"
+p.save
+
+p = Pokemon.new
+p.name = "Frosmoth"
+p.types = [Ice,Bug]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png"
+p.save
+
+p = Pokemon.new
+p.name = "Stonjourner"
+p.types = [Rock]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+p.save
+
+p = Pokemon.new
+p.name = "Eiscue-ice"
+p.types = [Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png"
+p.save
+
+p = Pokemon.new
+p.name = "Indeedee-male"
+p.types = [Psychic,Normal]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png"
+p.save
+
+p = Pokemon.new
+p.name = "Morpeko"
+p.types = [Electric,Dark]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png"
+p.save
+
+p = Pokemon.new
+p.name = "Cufant"
+p.types = [Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png"
+p.save
+
+p = Pokemon.new
+p.name = "Copperajah"
+p.types = [Steel]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dracozolt"
+p.types = [Electric,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png"
+p.save
+
+p = Pokemon.new
+p.name = "Arctozolt"
+p.types = [Electric,Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dracovish"
+p.types = [Water,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png"
+p.save
+
+p = Pokemon.new
+p.name = "Arctovish"
+p.types = [Water,Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png"
+p.save
+
+p = Pokemon.new
+p.name = "Duraludon"
+p.types = [Steel,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dreepy"
+p.types = [Dragon,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png"
+p.save
+
+p = Pokemon.new
+p.name = "Drakloak"
+p.types = [Dragon,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png"
+p.save
+
+p = Pokemon.new
+p.name = "Dragapult"
+p.types = [Dragon,Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+p.save
+
+p = Pokemon.new
+p.name = "Zacian-hero"
+p.types = [Fairy]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png"
+p.save
+
+p = Pokemon.new
+p.name = "Zamazenta-hero"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png"
+p.save
+
+p = Pokemon.new
+p.name = "Eternatus"
+p.types = [Poison,Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png"
+p.save
+
+p = Pokemon.new
+p.name = "Kubfu"
+p.types = [Fighting]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png"
+p.save
+
+p = Pokemon.new
+p.name = "Urshifu-single-strike"
+p.types = [Fighting,Dark]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
+p.save
+
+p = Pokemon.new
+p.name = "Zarude"
+p.types = [Dark,Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+p.save
+
+p = Pokemon.new
+p.name = "Regieleki"
+p.types = [Electric]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png"
+p.save
+
+p = Pokemon.new
+p.name = "Regidrago"
+p.types = [Dragon]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png"
+p.save
+
+p = Pokemon.new
+p.name = "Glastrier"
+p.types = [Ice]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png"
+p.save
+
+p = Pokemon.new
+p.name = "Spectrier"
+p.types = [Ghost]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png"
+p.save
+
+p = Pokemon.new
+p.name = "Calyrex"
+p.types = [Psychic,Grass]
+p.image = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+p.save
+
 p = PokemonInfo.new
 p.pokemon_id =1
 p.weight =69
@@ -4833,9 +6327,9 @@ p = PokemonInfo.new
 p.pokemon_id =115
 p.weight =800
 p.height =22
-p.stats = ["105","95","80","40","80","90",]
-p.abilities = ["early-bird","scrappy","inner-focus",]
-p. moves = ["comet-punch","mega-punch","fire-punch","ice-punch","thunder-punch","cut","stomp","mega-kick","headbutt","body-slam","take-down","double-edge","tail-whip","leer","bite","roar","disable","flamethrower","water-gun","surf","ice-beam","blizzard","bubble-beam","hyper-beam","submission","low-kick","counter","seismic-toss","strength","solar-beam","thunderbolt","thunder","earthquake","fissure","dig","toxic","rage","mimic","double-team","focus-energy","bide","fire-blast","skull-bash","dizzy-punch","rest","rock-slide","substitute","thief","snore","curse","reversal","spite","protect","mud-slap","zap-cannon","foresight","icy-wind","outrage","sandstorm","endure","swagger","fury-cutter","attract","sleep-talk","return","frustration","safeguard","dynamic-punch","iron-tail","hidden-power","rain-dance","sunny-day","crunch","shadow-ball","rock-smash","whirlpool","fake-out","uproar","hail","facade","focus-punch","helping-hand","brick-break","endeavor","secret-power","crush-claw","rock-tomb","aerial-ace","covet","shock-wave","water-pulse","hammer-arm","natural-gift","fling","trump-card","sucker-punch","aqua-tail","drain-punch","focus-blast","giga-impact","avalanche","shadow-claw","rock-climb","captivate","double-hit","round","chip-away","circle-throw","incinerate","retaliate","bulldoze","work-up","confide","power-up-punch",]
+p.stats = ["105","95","80","40","80","90"]
+p.abilities = ["early-bird","scrappy","inner-focus"]
+p. moves = ["comet-punch","mega-punch","fire-punch","ice-punch","thunder-punch","cut","stomp","mega-kick","headbutt","body-slam","take-down","double-edge","tail-whip","leer","bite","roar","disable","flamethrower","water-gun","surf","ice-beam","blizzard","bubble-beam","hyper-beam","submission","low-kick","counter","seismic-toss","strength","solar-beam","thunderbolt","thunder","earthquake","fissure","dig","toxic","rage","mimic","double-team","focus-energy","bide","fire-blast","skull-bash","dizzy-punch","rest","rock-slide","substitute","thief","snore","curse","reversal","spite","protect","mud-slap","zap-cannon","foresight","icy-wind","outrage","sandstorm","endure","swagger","fury-cutter","attract","sleep-talk","return","frustration","safeguard","dynamic-punch","iron-tail","hidden-power","rain-dance","sunny-day","crunch","shadow-ball","rock-smash","whirlpool","fake-out","uproar","hail","facade","focus-punch","helping-hand","brick-break","endeavor","secret-power","crush-claw","rock-tomb","aerial-ace","covet","shock-wave","water-pulse","hammer-arm","natural-gift","fling","trump-card","sucker-punch","aqua-tail","drain-punch","focus-blast","giga-impact","avalanche","shadow-claw","rock-climb","captivate","double-hit","round","chip-away","circle-throw","incinerate","retaliate","bulldoze","work-up","confide","power-up-punch"]
 p.save
 
 p = PokemonInfo.new
@@ -5211,9 +6705,9 @@ p = PokemonInfo.new
 p.pokemon_id =162
 p.weight =325
 p.height =18
-p.stats = ["85","76","64","45","55","90",]
-p.abilities = ["run-away","keen-eye","frisk",]
-p. moves = ["fire-punch","ice-punch","thunder-punch","scratch","cut","slam","headbutt","body-slam","double-edge","flamethrower","surf","ice-beam","blizzard","hyper-beam","strength","solar-beam","thunderbolt","thunder","dig","toxic","agility","quick-attack","mimic","double-team","defense-curl","swift","amnesia","fury-swipes","rest","super-fang","substitute","thief","snore","curse","protect","mud-slap","foresight","detect","endure","rollout","swagger","fury-cutter","attract","sleep-talk","return","frustration","dynamic-punch","baton-pass","iron-tail","hidden-power","rain-dance","sunny-day","shadow-ball","rock-smash","whirlpool","uproar","facade","focus-punch","follow-me","helping-hand","trick","brick-break","knock-off","secret-power","hyper-voice","covet","shock-wave","water-pulse","natural-gift","u-turn","fling","me-first","last-resort","sucker-punch","aqua-tail","focus-blast","giga-impact","shadow-claw","captivate","grass-knot","charge-beam","hone-claws","coil","round","echoed-voice","retaliate","work-up","confide","power-up-punch","brutal-swing",]
+p.stats = ["85","76","64","45","55","90"]
+p.abilities = ["run-away","keen-eye","frisk"]
+p. moves = ["fire-punch","ice-punch","thunder-punch","scratch","cut","slam","headbutt","body-slam","double-edge","flamethrower","surf","ice-beam","blizzard","hyper-beam","strength","solar-beam","thunderbolt","thunder","dig","toxic","agility","quick-attack","mimic","double-team","defense-curl","swift","amnesia","fury-swipes","rest","super-fang","substitute","thief","snore","curse","protect","mud-slap","foresight","detect","endure","rollout","swagger","fury-cutter","attract","sleep-talk","return","frustration","dynamic-punch","baton-pass","iron-tail","hidden-power","rain-dance","sunny-day","shadow-ball","rock-smash","whirlpool","uproar","facade","focus-punch","follow-me","helping-hand","trick","brick-break","knock-off","secret-power","hyper-voice","covet","shock-wave","water-pulse","natural-gift","u-turn","fling","me-first","last-resort","sucker-punch","aqua-tail","focus-blast","giga-impact","shadow-claw","captivate","grass-knot","charge-beam","hone-claws","coil","round","echoed-voice","retaliate","work-up","confide","power-up-punch","brutal-swing"]
 p.save
 
 p = PokemonInfo.new
@@ -7159,9 +8653,9 @@ p = PokemonInfo.new
 p.pokemon_id =405
 p.weight =420
 p.height =14
-p.stats = ["80","120","79","95","79","70",]
-p.abilities = ["rivalry","intimidate","guts",]
-p. moves = ["headbutt","tackle","leer","bite","roar","hyper-beam","strength","thunderbolt","thunder-wave","thunder","toxic","double-team","light-screen","swift","flash","rest","substitute","thief","snore","protect","scary-face","mud-slap","endure","swagger","spark","fury-cutter","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","crunch","facade","charge","helping-hand","superpower","secret-power","signal-beam","shock-wave","natural-gift","magnet-rise","giga-impact","thunder-fang","discharge","captivate","charge-beam","round","volt-switch","wild-charge","snarl","confide","electric-terrain",]
+p.stats = ["80","120","79","95","79","70"]
+p.abilities = ["rivalry","intimidate","guts"]
+p. moves = ["headbutt","tackle","leer","bite","roar","hyper-beam","strength","thunderbolt","thunder-wave","thunder","toxic","double-team","light-screen","swift","flash","rest","substitute","thief","snore","protect","scary-face","mud-slap","endure","swagger","spark","fury-cutter","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","crunch","facade","charge","helping-hand","superpower","secret-power","signal-beam","shock-wave","natural-gift","magnet-rise","giga-impact","thunder-fang","discharge","captivate","charge-beam","round","volt-switch","wild-charge","snarl","confide","electric-terrain"]
 p.save
 
 p = PokemonInfo.new
@@ -7305,9 +8799,9 @@ p = PokemonInfo.new
 p.pokemon_id =423
 p.weight =299
 p.height =9
-p.stats = ["111","83","68","92","82","39",]
-p.abilities = ["sticky-hold","storm-drain","sand-force",]
-p. moves = ["headbutt","body-slam","surf","ice-beam","blizzard","hyper-beam","strength","string-shot","earthquake","dig","toxic","double-team","recover","harden","waterfall","flash","rest","rock-slide","substitute","snore","protect","sludge-bomb","mud-slap","icy-wind","sandstorm","endure","swagger","attract","sleep-talk","return","frustration","pain-split","hidden-power","rain-dance","ancient-power","rock-smash","whirlpool","hail","facade","secret-power","dive","mud-sport","rock-tomb","muddy-water","block","water-pulse","brine","natural-gift","earth-power","giga-impact","mud-bomb","stone-edge","captivate","sludge-wave","round","scald","bulldoze","confide","infestation",]
+p.stats = ["111","83","68","92","82","39"]
+p.abilities = ["sticky-hold","storm-drain","sand-force"]
+p. moves = ["headbutt","body-slam","surf","ice-beam","blizzard","hyper-beam","strength","string-shot","earthquake","dig","toxic","double-team","recover","harden","waterfall","flash","rest","rock-slide","substitute","snore","protect","sludge-bomb","mud-slap","icy-wind","sandstorm","endure","swagger","attract","sleep-talk","return","frustration","pain-split","hidden-power","rain-dance","ancient-power","rock-smash","whirlpool","hail","facade","secret-power","dive","mud-sport","rock-tomb","muddy-water","block","water-pulse","brine","natural-gift","earth-power","giga-impact","mud-bomb","stone-edge","captivate","sludge-wave","round","scald","bulldoze","confide","infestation"]
 p.save
 
 p = PokemonInfo.new
@@ -7339,9 +8833,9 @@ p = PokemonInfo.new
 p.pokemon_id =427
 p.weight =55
 p.height =4
-p.stats = ["55","66","44","44","56","85",]
-p.abilities = ["run-away","klutz","limber",]
-p. moves = ["pound","fire-punch","ice-punch","thunder-punch","cut","jump-kick","headbutt","ice-beam","low-kick","solar-beam","thunderbolt","thunder-wave","dig","toxic","agility","quick-attack","double-team","defense-curl","swift","dizzy-punch","splash","rest","substitute","snore","flail","protect","sweet-kiss","mud-slap","foresight","endure","charm","swagger","attract","sleep-talk","heal-bell","return","frustration","baton-pass","encore","iron-tail","hidden-power","rain-dance","sunny-day","shadow-ball","rock-smash","fake-out","uproar","facade","focus-punch","helping-hand","magic-coat","endeavor","secret-power","teeter-dance","mud-sport","hyper-voice","fake-tears","cosmic-power","sky-uppercut","bounce","covet","shock-wave","water-pulse","healing-wish","natural-gift","fling","copycat","last-resort","drain-punch","switcheroo","captivate","grass-knot","charge-beam","double-hit","entrainment","after-you","round","circle-throw","retaliate","work-up","confide","baby-doll-eyes","power-up-punch",]
+p.stats = ["55","66","44","44","56","85"]
+p.abilities = ["run-away","klutz","limber"]
+p. moves = ["pound","fire-punch","ice-punch","thunder-punch","cut","jump-kick","headbutt","ice-beam","low-kick","solar-beam","thunderbolt","thunder-wave","dig","toxic","agility","quick-attack","double-team","defense-curl","swift","dizzy-punch","splash","rest","substitute","snore","flail","protect","sweet-kiss","mud-slap","foresight","endure","charm","swagger","attract","sleep-talk","heal-bell","return","frustration","baton-pass","encore","iron-tail","hidden-power","rain-dance","sunny-day","shadow-ball","rock-smash","fake-out","uproar","facade","focus-punch","helping-hand","magic-coat","endeavor","secret-power","teeter-dance","mud-sport","hyper-voice","fake-tears","cosmic-power","sky-uppercut","bounce","covet","shock-wave","water-pulse","healing-wish","natural-gift","fling","copycat","last-resort","drain-punch","switcheroo","captivate","grass-knot","charge-beam","double-hit","entrainment","after-you","round","circle-throw","retaliate","work-up","confide","baby-doll-eyes","power-up-punch"]
 p.save
 
 p = PokemonInfo.new
@@ -9121,3 +10615,2246 @@ p.stats = ["71","120","95","120","95","99"]
 p.abilities = ["download"]
 p. moves = ["fly","flamethrower","ice-beam","blizzard","hyper-beam","solar-beam","thunderbolt","thunder-wave","thunder","toxic","psychic","quick-attack","screech","double-team","light-screen","reflect","self-destruct","flash","explosion","rest","tri-attack","slash","substitute","snore","protect","zap-cannon","lock-on","giga-drain","swagger","fury-cutter","sleep-talk","return","frustration","metal-claw","hidden-power","facade","magic-coat","recycle","secret-power","metal-sound","signal-beam","aerial-ace","iron-defense","shock-wave","gravity","u-turn","last-resort","magnet-rise","rock-polish","dark-pulse","x-scissor","bug-buzz","energy-ball","giga-impact","shadow-claw","zen-headbutt","flash-cannon","gunk-shot","iron-head","magnet-bomb","bug-bite","charge-beam","hone-claws","flame-charge","simple-beam","round","struggle-bug","electroweb","techno-blast","fell-stinger","confide","infestation"]
 p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 650
+p.weight = 90
+p.height = 4
+p.stats = ["56","61","65","48","45","38"]
+p.abilities = ["overgrow","bulletproof"]
+p. moves = ["thunder-punch","swords-dance","cut","vine-whip","tackle","body-slam","take-down","pin-missile","bite","growl","roar","low-kick","strength","leech-seed","solar-beam","dig","toxic","double-team","defense-curl","reflect","flash","rest","rock-slide","super-fang","substitute","snore","curse","protect","belly-drum","sludge-bomb","spikes","giga-drain","rollout","swagger","attract","sleep-talk","return","frustration","pain-split","iron-tail","synthesis","hidden-power","sunny-day","rock-smash","facade","focus-punch","nature-power","taunt","helping-hand","superpower","brick-break","endeavor","secret-power","rock-tomb","aerial-ace","iron-defense","bulk-up","mud-shot","gyro-ball","payback","fling","worry-seed","poison-jab","seed-bomb","drain-punch","energy-ball","shadow-claw","zen-headbutt","iron-head","stone-edge","grass-knot","wood-hammer","smack-down","low-sweep","round","quick-guard","retaliate","grass-pledge","bulldoze","work-up","dual-chop","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 651
+p.weight = 290
+p.height = 7
+p.stats = ["61","78","95","56","58","57"]
+p.abilities = ["overgrow","bulletproof"]
+p. moves = ["thunder-punch","swords-dance","cut","vine-whip","tackle","body-slam","take-down","pin-missile","bite","growl","roar","low-kick","strength","leech-seed","solar-beam","dig","toxic","double-team","reflect","flash","rest","rock-slide","super-fang","substitute","snore","protect","sludge-bomb","giga-drain","rollout","swagger","attract","sleep-talk","return","frustration","pain-split","iron-tail","synthesis","hidden-power","sunny-day","rock-smash","facade","focus-punch","nature-power","taunt","helping-hand","superpower","brick-break","endeavor","secret-power","needle-arm","rock-tomb","aerial-ace","iron-defense","bulk-up","mud-shot","gyro-ball","payback","fling","worry-seed","poison-jab","seed-bomb","drain-punch","energy-ball","shadow-claw","zen-headbutt","iron-head","stone-edge","grass-knot","wood-hammer","hone-claws","smack-down","low-sweep","round","retaliate","grass-pledge","bulldoze","work-up","dual-chop","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 652
+p.weight = 900
+p.height = 16
+p.stats = ["88","107","122","74","75","64"]
+p.abilities = ["overgrow","bulletproof"]
+p. moves = ["thunder-punch","swords-dance","cut","vine-whip","tackle","body-slam","take-down","pin-missile","bite","growl","roar","hyper-beam","low-kick","strength","leech-seed","solar-beam","earthquake","dig","toxic","double-team","reflect","flash","rest","rock-slide","super-fang","substitute","snore","protect","belly-drum","sludge-bomb","giga-drain","rollout","swagger","attract","sleep-talk","return","frustration","pain-split","iron-tail","synthesis","hidden-power","sunny-day","rock-smash","facade","focus-punch","nature-power","taunt","helping-hand","superpower","brick-break","endeavor","secret-power","needle-arm","rock-tomb","aerial-ace","iron-defense","block","dragon-claw","frenzy-plant","bulk-up","mud-shot","hammer-arm","gyro-ball","feint","payback","fling","worry-seed","poison-jab","seed-bomb","drain-punch","focus-blast","energy-ball","giga-impact","shadow-claw","zen-headbutt","iron-head","stone-edge","grass-knot","wood-hammer","hone-claws","smack-down","low-sweep","round","retaliate","grass-pledge","bulldoze","work-up","dual-chop","confide","spiky-shield","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 653
+p.weight = 94
+p.height = 4
+p.stats = ["40","45","40","62","60","60"]
+p.abilities = ["blaze","magician"]
+p. moves = ["scratch","cut","tail-whip","ember","flamethrower","psybeam","solar-beam","fire-spin","toxic","psychic","hypnosis","double-team","light-screen","fire-blast","dream-eater","rest","substitute","thief","snore","protect","swagger","attract","sleep-talk","return","frustration","safeguard","iron-tail","hidden-power","rain-dance","sunny-day","psych-up","heat-wave","will-o-wisp","facade","wish","magic-coat","secret-power","overheat","howl","covet","embargo","lucky-chant","grass-knot","psyshock","magic-room","flame-charge","foul-play","round","echoed-voice","incinerate","fire-pledge","work-up","confide","power-up-punch","psychic-terrain"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 654
+p.weight = 145
+p.height = 10
+p.stats = ["59","59","58","90","70","73"]
+p.abilities = ["blaze","magician"]
+p. moves = ["fire-punch","thunder-punch","scratch","cut","tail-whip","ember","flamethrower","psybeam","low-kick","solar-beam","fire-spin","toxic","psychic","double-team","light-screen","fire-blast","dream-eater","rest","substitute","thief","snore","protect","swagger","attract","sleep-talk","return","frustration","safeguard","iron-tail","hidden-power","rain-dance","sunny-day","psych-up","heat-wave","will-o-wisp","facade","trick","magic-coat","recycle","skill-swap","snatch","secret-power","overheat","howl","covet","shock-wave","embargo","lucky-chant","zen-headbutt","grass-knot","wonder-room","psyshock","magic-room","flame-charge","foul-play","round","echoed-voice","incinerate","fire-pledge","work-up","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 655
+p.weight = 390
+p.height = 15
+p.stats = ["75","69","72","114","100","104"]
+p.abilities = ["blaze","magician"]
+p. moves = ["fire-punch","thunder-punch","scratch","cut","tail-whip","ember","flamethrower","psybeam","hyper-beam","low-kick","solar-beam","fire-spin","toxic","psychic","double-team","light-screen","fire-blast","dream-eater","rest","substitute","thief","snore","protect","swagger","attract","sleep-talk","return","frustration","safeguard","iron-tail","hidden-power","rain-dance","sunny-day","psych-up","shadow-ball","future-sight","heat-wave","will-o-wisp","facade","trick","role-play","magic-coat","recycle","skill-swap","snatch","secret-power","blast-burn","overheat","signal-beam","howl","covet","calm-mind","shock-wave","embargo","lucky-chant","switcheroo","giga-impact","zen-headbutt","trick-room","grass-knot","wonder-room","psyshock","magic-room","flame-charge","foul-play","round","echoed-voice","incinerate","fire-pledge","work-up","confide","mystical-fire","dazzling-gleam","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 656
+p.weight = 70
+p.height = 3
+p.stats = ["41","56","40","62","44","71"]
+p.abilities = ["torrent","protean"]
+p. moves = ["pound","cut","growl","hydro-pump","surf","ice-beam","blizzard","strength","dig","toxic","quick-attack","double-team","smokescreen","lick","waterfall","bubble","rest","rock-slide","substitute","thief","mind-reader","snore","spite","protect","icy-wind","swagger","attract","sleep-talk","return","frustration","hidden-power","rain-dance","rock-smash","facade","taunt","role-play","snatch","secret-power","dive","camouflage","mud-sport","rock-tomb","aerial-ace","bounce","water-sport","water-pulse","u-turn","fling","toxic-spikes","grass-knot","smack-down","round","echoed-voice","scald","acrobatics","bestow","water-pledge","work-up","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 657
+p.weight = 109
+p.height = 6
+p.stats = ["54","63","52","83","56","97"]
+p.abilities = ["torrent","protean"]
+p. moves = ["pound","ice-punch","cut","growl","hydro-pump","surf","ice-beam","blizzard","low-kick","strength","dig","toxic","quick-attack","double-team","smokescreen","lick","waterfall","bubble","rest","rock-slide","substitute","thief","snore","spite","protect","icy-wind","swagger","attract","sleep-talk","return","frustration","hidden-power","rain-dance","rock-smash","facade","taunt","role-play","snatch","secret-power","dive","rock-tomb","aerial-ace","bounce","water-pulse","u-turn","fling","dark-pulse","gunk-shot","grass-knot","smack-down","round","echoed-voice","scald","acrobatics","water-pledge","work-up","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 658
+p.weight = 400
+p.height = 15
+p.stats = ["72","95","67","103","71","122"]
+p.abilities = ["torrent","protean"]
+p. moves = ["pound","ice-punch","cut","growl","hydro-pump","surf","ice-beam","blizzard","hyper-beam","low-kick","strength","dig","toxic","quick-attack","double-team","smokescreen","haze","lick","waterfall","bubble","rest","rock-slide","substitute","thief","snore","spite","protect","feint-attack","spikes","icy-wind","swagger","attract","sleep-talk","return","frustration","hidden-power","rain-dance","rock-smash","facade","taunt","role-play","snatch","secret-power","dive","hydro-cannon","rock-tomb","extrasensory","aerial-ace","bounce","water-pulse","u-turn","fling","dark-pulse","night-slash","giga-impact","shadow-sneak","gunk-shot","grass-knot","smack-down","round","echoed-voice","scald","acrobatics","water-pledge","work-up","mat-block","confide","water-shuriken","power-up-punch","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 659
+p.weight = 50
+p.height = 4
+p.stats = ["38","36","38","32","36","57"]
+p.abilities = ["pickup","cheek-pouch","huge-power"]
+p. moves = ["double-slap","cut","double-kick","tackle","take-down","leer","surf","strength","earthquake","dig","toxic","agility","quick-attack","double-team","defense-curl","rest","rock-slide","super-fang","substitute","thief","snore","flail","protect","sludge-bomb","mud-slap","spikes","sandstorm","rollout","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rock-smash","torment","facade","nature-power","recycle","brick-break","endeavor","secret-power","odor-sleuth","rock-tomb","bulk-up","bounce","mud-shot","u-turn","payback","fling","last-resort","iron-head","stone-edge","grass-knot","smack-down","round","bulldoze","work-up","wild-charge","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 660
+p.weight = 424
+p.height = 10
+p.stats = ["85","56","77","50","77","78"]
+p.abilities = ["pickup","cheek-pouch","huge-power"]
+p. moves = ["double-slap","fire-punch","ice-punch","thunder-punch","swords-dance","cut","double-kick","tackle","take-down","leer","surf","hyper-beam","low-kick","strength","earthquake","dig","toxic","agility","quick-attack","double-team","rest","rock-slide","super-fang","substitute","thief","snore","flail","protect","sludge-bomb","mud-slap","sandstorm","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rock-smash","uproar","torment","facade","focus-punch","nature-power","superpower","recycle","brick-break","knock-off","endeavor","snatch","secret-power","odor-sleuth","rock-tomb","bulk-up","bounce","mud-shot","hammer-arm","u-turn","payback","fling","gastro-acid","last-resort","earth-power","giga-impact","gunk-shot","iron-head","stone-edge","grass-knot","smack-down","foul-play","round","bulldoze","work-up","wild-charge","rototiller","confide","power-up-punch","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 661
+p.weight = 17
+p.height = 3
+p.stats = ["45","50","43","40","38","62"]
+p.abilities = ["big-pecks","gale-wings"]
+p. moves = ["razor-wind","swords-dance","fly","tackle","growl","peck","toxic","agility","quick-attack","double-team","rest","substitute","thief","snore","flail","protect","swagger","steel-wing","attract","sleep-talk","return","frustration","hidden-power","sunny-day","heat-wave","facade","taunt","snatch","secret-power","overheat","aerial-ace","roost","natural-gift","tailwind","u-turn","me-first","flame-charge","round","quick-guard","acrobatics","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 662
+p.weight = 160
+p.height = 7
+p.stats = ["62","73","55","56","52","84"]
+p.abilities = ["flame-body","gale-wings"]
+p. moves = ["razor-wind","swords-dance","fly","tackle","growl","ember","flamethrower","peck","toxic","agility","quick-attack","double-team","fire-blast","rest","substitute","thief","snore","flail","protect","swagger","steel-wing","attract","sleep-talk","return","frustration","hidden-power","sunny-day","heat-wave","will-o-wisp","facade","taunt","snatch","secret-power","overheat","aerial-ace","roost","natural-gift","tailwind","u-turn","me-first","flame-charge","round","incinerate","acrobatics","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 663
+p.weight = 245
+p.height = 12
+p.stats = ["78","81","71","74","69","126"]
+p.abilities = ["flame-body","gale-wings"]
+p. moves = ["razor-wind","swords-dance","fly","tackle","growl","ember","flamethrower","hyper-beam","peck","solar-beam","toxic","agility","quick-attack","double-team","fire-blast","rest","substitute","thief","snore","flail","protect","swagger","steel-wing","attract","sleep-talk","return","frustration","hidden-power","sunny-day","heat-wave","will-o-wisp","facade","taunt","snatch","secret-power","overheat","aerial-ace","bulk-up","roost","natural-gift","tailwind","u-turn","me-first","flare-blitz","brave-bird","giga-impact","hone-claws","flame-charge","round","incinerate","acrobatics","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 664
+p.weight = 25
+p.height = 3
+p.stats = ["38","35","40","27","25","35"]
+p.abilities = ["shield-dust","compound-eyes","friend-guard"]
+p. moves = ["tackle","poison-powder","stun-spore","string-shot","bug-bite","rage-powder"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 665
+p.weight = 84
+p.height = 3
+p.stats = ["45","22","60","27","30","29"]
+p.abilities = ["shed-skin","friend-guard"]
+p. moves = ["harden","protect","iron-defense","bug-bite","electroweb"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 666
+p.weight = 170
+p.height = 12
+p.stats = ["80","52","50","90","50","89"]
+p.abilities = ["shield-dust","compound-eyes","friend-guard"]
+p. moves = ["gust","supersonic","psybeam","hyper-beam","solar-beam","poison-powder","stun-spore","sleep-powder","toxic","psychic","double-team","light-screen","dream-eater","flash","rest","substitute","thief","snore","protect","giga-drain","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","sunny-day","psych-up","facade","endeavor","secret-power","aromatherapy","signal-beam","aerial-ace","calm-mind","roost","tailwind","u-turn","bug-buzz","energy-ball","giga-impact","bug-bite","quiver-dance","round","acrobatics","struggle-bug","electroweb","hurricane","draining-kiss","confide","powder","infestation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 667
+p.weight = 135
+p.height = 6
+p.stats = ["62","50","58","73","54","72"]
+p.abilities = ["rivalry","unnerve","moxie"]
+p. moves = ["headbutt","tackle","take-down","leer","roar","ember","flamethrower","strength","solar-beam","fire-spin","dig","toxic","double-team","fire-blast","rest","substitute","thief","snore","protect","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","sunny-day","crunch","rock-smash","heat-wave","will-o-wisp","facade","taunt","helping-hand","yawn","endeavor","snatch","secret-power","hyper-voice","overheat","payback","flare-blitz","dark-pulse","fire-fang","flame-charge","entrainment","round","echoed-voice","incinerate","retaliate","bulldoze","work-up","wild-charge","snarl","noble-roar","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 668
+p.weight = 815
+p.height = 15
+p.stats = ["86","68","72","109","66","106"]
+p.abilities = ["rivalry","unnerve","moxie"]
+p. moves = ["headbutt","tackle","take-down","leer","roar","ember","flamethrower","hyper-beam","strength","solar-beam","dig","toxic","double-team","fire-blast","rest","substitute","thief","snore","protect","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","sunny-day","crunch","rock-smash","heat-wave","will-o-wisp","facade","taunt","helping-hand","endeavor","snatch","secret-power","hyper-voice","overheat","bounce","payback","dark-pulse","giga-impact","fire-fang","flame-charge","round","echoed-voice","incinerate","retaliate","bulldoze","work-up","wild-charge","snarl","noble-roar","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 669
+p.weight = 1
+p.height = 1
+p.stats = ["44","38","39","61","79","42"]
+p.abilities = ["flower-veil","symbiosis"]
+p. moves = ["vine-whip","tackle","razor-leaf","solar-beam","petal-dance","toxic","psychic","double-team","flash","rest","substitute","snore","protect","giga-drain","swagger","attract","sleep-talk","heal-bell","return","frustration","safeguard","synthesis","hidden-power","rain-dance","sunny-day","facade","nature-power","helping-hand","wish","magic-coat","endeavor","secret-power","camouflage","aromatherapy","covet","magical-leaf","calm-mind","lucky-chant","copycat","worry-seed","seed-bomb","energy-ball","captivate","grass-knot","after-you","round","echoed-voice","petal-blizzard","grassy-terrain","misty-terrain","fairy-wind","moonblast","confide","dazzling-gleam","tearful-look"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 670
+p.weight = 9
+p.height = 2
+p.stats = ["54","45","47","75","98","52"]
+p.abilities = ["flower-veil","symbiosis"]
+p. moves = ["vine-whip","tackle","razor-leaf","solar-beam","petal-dance","toxic","psychic","double-team","flash","rest","substitute","snore","protect","giga-drain","swagger","attract","sleep-talk","heal-bell","return","frustration","safeguard","synthesis","hidden-power","rain-dance","sunny-day","facade","nature-power","helping-hand","wish","magic-coat","endeavor","secret-power","aromatherapy","covet","magical-leaf","calm-mind","lucky-chant","worry-seed","seed-bomb","energy-ball","grass-knot","after-you","round","echoed-voice","petal-blizzard","grassy-terrain","misty-terrain","fairy-wind","moonblast","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 671
+p.weight = 100
+p.height = 11
+p.stats = ["78","65","68","112","154","75"]
+p.abilities = ["flower-veil","symbiosis"]
+p. moves = ["hyper-beam","solar-beam","petal-dance","toxic","psychic","double-team","light-screen","flash","rest","substitute","snore","protect","giga-drain","swagger","attract","sleep-talk","heal-bell","return","frustration","safeguard","synthesis","hidden-power","rain-dance","sunny-day","facade","nature-power","helping-hand","wish","magic-coat","endeavor","secret-power","aromatherapy","covet","magical-leaf","calm-mind","lucky-chant","worry-seed","seed-bomb","energy-ball","giga-impact","grass-knot","after-you","round","echoed-voice","petal-blizzard","disarming-voice","flower-shield","grassy-terrain","misty-terrain","moonblast","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 672
+p.weight = 310
+p.height = 9
+p.stats = ["66","65","48","62","57","52"]
+p.abilities = ["sap-sipper","grass-pelt"]
+p. moves = ["vine-whip","tackle","take-down","double-edge","tail-whip","roar","surf","strength","leech-seed","growth","razor-leaf","solar-beam","dig","toxic","double-team","defense-curl","rest","rock-slide","substitute","snore","protect","giga-drain","rollout","swagger","milk-drink","attract","sleep-talk","return","frustration","iron-tail","synthesis","hidden-power","rain-dance","sunny-day","rock-smash","facade","nature-power","brick-break","secret-power","bulk-up","leaf-blade","payback","worry-seed","seed-bomb","energy-ball","zen-headbutt","grass-knot","round","retaliate","bulldoze","work-up","wild-charge","horn-leech","grassy-terrain","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 673
+p.weight = 910
+p.height = 17
+p.stats = ["123","100","62","97","81","68"]
+p.abilities = ["sap-sipper","grass-pelt"]
+p. moves = ["vine-whip","tackle","take-down","double-edge","tail-whip","roar","surf","hyper-beam","strength","leech-seed","growth","razor-leaf","solar-beam","earthquake","dig","toxic","double-team","rest","rock-slide","substitute","snore","protect","giga-drain","swagger","milk-drink","attract","sleep-talk","return","frustration","iron-tail","synthesis","hidden-power","rain-dance","sunny-day","rock-smash","facade","nature-power","superpower","brick-break","secret-power","aerial-ace","bulk-up","bounce","leaf-blade","payback","worry-seed","seed-bomb","energy-ball","giga-impact","zen-headbutt","grass-knot","round","retaliate","bulldoze","work-up","wild-charge","horn-leech","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 674
+p.weight = 80
+p.height = 6
+p.stats = ["67","82","62","46","48","43"]
+p.abilities = ["iron-fist","mold-breaker","scrappy"]
+p. moves = ["karate-chop","comet-punch","fire-punch","ice-punch","thunder-punch","swords-dance","cut","tackle","body-slam","leer","roar","surf","low-kick","strength","dig","toxic","double-team","rest","rock-slide","slash","substitute","snore","spite","protect","sludge-bomb","false-swipe","swagger","attract","sleep-talk","return","frustration","vital-throw","hidden-power","rain-dance","sunny-day","crunch","rock-smash","uproar","torment","facade","focus-punch","helping-hand","superpower","brick-break","knock-off","endeavor","snatch","secret-power","arm-thrust","hyper-voice","rock-tomb","sky-uppercut","aerial-ace","block","bulk-up","covet","payback","fling","me-first","dark-pulse","drain-punch","shadow-claw","zen-headbutt","gunk-shot","iron-head","stone-edge","grass-knot","storm-throw","low-sweep","foul-play","entrainment","round","echoed-voice","quick-guard","circle-throw","quash","retaliate","bulldoze","work-up","dual-chop","parting-shot","confide","power-up-punch","power-trip"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 675
+p.weight = 1360
+p.height = 21
+p.stats = ["95","124","78","69","71","58"]
+p.abilities = ["iron-fist","mold-breaker","scrappy"]
+p. moves = ["karate-chop","comet-punch","fire-punch","ice-punch","thunder-punch","swords-dance","cut","tackle","body-slam","leer","roar","surf","hyper-beam","low-kick","strength","earthquake","dig","toxic","double-team","rest","rock-slide","slash","substitute","thief","snore","spite","protect","sludge-bomb","outrage","false-swipe","swagger","attract","sleep-talk","return","frustration","vital-throw","hidden-power","rain-dance","sunny-day","crunch","rock-smash","uproar","torment","facade","focus-punch","taunt","helping-hand","superpower","brick-break","knock-off","endeavor","snatch","secret-power","arm-thrust","hyper-voice","rock-tomb","sky-uppercut","aerial-ace","block","dragon-claw","bulk-up","covet","hammer-arm","payback","embargo","fling","poison-jab","dark-pulse","x-scissor","drain-punch","focus-blast","giga-impact","bullet-punch","shadow-claw","zen-headbutt","gunk-shot","iron-head","stone-edge","grass-knot","hone-claws","low-sweep","foul-play","entrainment","round","echoed-voice","circle-throw","quash","retaliate","bulldoze","work-up","dual-chop","snarl","parting-shot","confide","infestation","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 676
+p.weight = 280
+p.height = 12
+p.stats = ["75","80","60","65","90","102"]
+p.abilities = ["fur-coat"]
+p. moves = ["sand-attack","headbutt","tackle","take-down","tail-whip","bite","growl","roar","surf","thunder-wave","dig","toxic","mimic","double-team","flash","rest","substitute","snore","protect","charm","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","sunny-day","rock-smash","uproar","facade","helping-hand","role-play","endeavor","refresh","secret-power","hyper-voice","odor-sleuth","u-turn","last-resort","sucker-punch","dark-pulse","giga-impact","zen-headbutt","captivate","grass-knot","charge-beam","round","echoed-voice","retaliate","work-up","wild-charge","cotton-guard","snarl","confide","baby-doll-eyes"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 677
+p.weight = 35
+p.height = 3
+p.stats = ["62","48","54","63","60","68"]
+p.abilities = ["keen-eye","infiltrator","own-tempo"]
+p. moves = ["scratch","cut","leer","psybeam","thunderbolt","thunder-wave","toxic","confusion","psychic","double-team","barrier","light-screen","reflect","dream-eater","flash","rest","substitute","snore","protect","swagger","attract","sleep-talk","heal-bell","return","frustration","safeguard","iron-tail","hidden-power","rain-dance","sunny-day","psych-up","fake-out","torment","facade","helping-hand","trick","role-play","assist","magic-coat","recycle","yawn","snatch","secret-power","signal-beam","covet","calm-mind","shock-wave","gravity","payback","dark-pulse","energy-ball","zen-headbutt","trick-room","charge-beam","wonder-room","psyshock","magic-room","round","echoed-voice","work-up","disarming-voice","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 678
+p.weight = 85
+p.height = 6
+p.stats = ["74","48","76","83","81","104"]
+p.abilities = ["keen-eye","infiltrator","prankster"]
+p. moves = ["scratch","cut","leer","psybeam","hyper-beam","thunderbolt","thunder-wave","dig","toxic","confusion","psychic","double-team","light-screen","reflect","dream-eater","flash","rest","substitute","snore","protect","charm","swagger","mean-look","attract","sleep-talk","heal-bell","return","frustration","safeguard","iron-tail","hidden-power","rain-dance","sunny-day","psych-up","shadow-ball","fake-out","torment","facade","helping-hand","trick","role-play","magic-coat","recycle","imprison","snatch","secret-power","signal-beam","covet","calm-mind","shock-wave","gravity","miracle-eye","payback","sucker-punch","dark-pulse","energy-ball","giga-impact","zen-headbutt","trick-room","charge-beam","wonder-room","psyshock","magic-room","round","echoed-voice","quick-guard","work-up","disarming-voice","misty-terrain","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 679
+p.weight = 20
+p.height = 8
+p.stats = ["45","80","100","35","37","28"]
+p.abilities = ["no-guard"]
+p. moves = ["swords-dance","cut","tackle","toxic","double-team","reflect","rest","rock-slide","slash","substitute","snore","spite","protect","destiny-bond","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","pursuit","hidden-power","rain-dance","rock-smash","facade","brick-break","secret-power","metal-sound","aerial-ace","iron-defense","shock-wave","gyro-ball","power-trick","magnet-rise","night-slash","shadow-claw","shadow-sneak","flash-cannon","iron-head","wide-guard","autotomize","after-you","retaliate","sacred-sword","confide","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 680
+p.weight = 45
+p.height = 8
+p.stats = ["59","110","150","45","49","35"]
+p.abilities = ["no-guard"]
+p. moves = ["swords-dance","cut","tackle","toxic","double-team","reflect","rest","rock-slide","slash","substitute","snore","spite","protect","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","pursuit","hidden-power","rain-dance","rock-smash","facade","brick-break","secret-power","metal-sound","aerial-ace","iron-defense","shock-wave","gyro-ball","power-trick","magnet-rise","night-slash","shadow-claw","shadow-sneak","flash-cannon","iron-head","autotomize","after-you","retaliate","sacred-sword","confide","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 681
+p.weight = 530
+p.height = 17
+p.stats = ["60","50","140","50","140","60"]
+p.abilities = ["stance-change"]
+p. moves = ["swords-dance","cut","hyper-beam","toxic","double-team","reflect","rest","rock-slide","slash","substitute","snore","spite","protect","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","pursuit","hidden-power","rain-dance","sunny-day","shadow-ball","rock-smash","facade","brick-break","secret-power","aerial-ace","iron-defense","block","shock-wave","gyro-ball","power-trick","magnet-rise","night-slash","giga-impact","shadow-claw","shadow-sneak","flash-cannon","iron-head","head-smash","autotomize","after-you","round","retaliate","sacred-sword","kings-shield","confide","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 682
+p.weight = 5
+p.height = 2
+p.stats = ["78","52","60","63","65","23"]
+p.abilities = ["healer","aroma-veil"]
+p. moves = ["disable","thunderbolt","toxic","psychic","double-team","light-screen","reflect","dream-eater","flash","rest","substitute","snore","flail","protect","sweet-kiss","charm","swagger","attract","sleep-talk","heal-bell","return","frustration","sweet-scent","hidden-power","rain-dance","sunny-day","psych-up","torment","facade","helping-hand","wish","magic-coat","endeavor","skill-swap","refresh","secret-power","aromatherapy","odor-sleuth","covet","calm-mind","gyro-ball","energy-ball","nasty-plot","flash-cannon","trick-room","captivate","charge-beam","after-you","round","echoed-voice","disarming-voice","draining-kiss","misty-terrain","fairy-wind","moonblast","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 683
+p.weight = 155
+p.height = 8
+p.stats = ["101","72","72","99","89","29"]
+p.abilities = ["healer","aroma-veil"]
+p. moves = ["hyper-beam","thunderbolt","thunder","toxic","psychic","double-team","light-screen","reflect","dream-eater","flash","rest","substitute","snore","flail","protect","sweet-kiss","charm","swagger","attract","sleep-talk","heal-bell","return","frustration","sweet-scent","hidden-power","rain-dance","sunny-day","psych-up","torment","facade","helping-hand","magic-coat","endeavor","skill-swap","secret-power","aromatherapy","odor-sleuth","covet","calm-mind","gyro-ball","drain-punch","energy-ball","giga-impact","flash-cannon","trick-room","charge-beam","psyshock","after-you","round","echoed-voice","heal-pulse","disarming-voice","draining-kiss","misty-terrain","fairy-wind","moonblast","confide","aromatic-mist","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 684
+p.weight = 35
+p.height = 4
+p.stats = ["62","48","66","59","57","49"]
+p.abilities = ["sweet-veil","unburden"]
+p. moves = ["tackle","flamethrower","surf","thunderbolt","toxic","psychic","double-team","light-screen","dream-eater","flash","rest","substitute","thief","snore","cotton-spore","protect","belly-drum","swagger","attract","sleep-talk","heal-bell","return","frustration","safeguard","sweet-scent","hidden-power","rain-dance","sunny-day","psych-up","facade","helping-hand","wish","magic-coat","yawn","endeavor","secret-power","aromatherapy","fake-tears","covet","calm-mind","gastro-acid","copycat","energy-ball","after-you","round","cotton-guard","sticky-web","draining-kiss","play-rough","fairy-wind","play-nice","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 685
+p.weight = 50
+p.height = 8
+p.stats = ["82","80","86","85","75","72"]
+p.abilities = ["sweet-veil","unburden"]
+p. moves = ["tackle","flamethrower","surf","hyper-beam","thunderbolt","toxic","psychic","double-team","light-screen","dream-eater","flash","rest","substitute","thief","snore","cotton-spore","protect","swagger","attract","sleep-talk","heal-bell","return","frustration","safeguard","sweet-scent","hidden-power","rain-dance","sunny-day","psych-up","facade","helping-hand","wish","magic-coat","endeavor","secret-power","aromatherapy","fake-tears","covet","calm-mind","gastro-acid","drain-punch","energy-ball","giga-impact","after-you","round","cotton-guard","draining-kiss","play-rough","fairy-wind","play-nice","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 686
+p.weight = 35
+p.height = 4
+p.stats = ["53","54","53","37","46","45"]
+p.abilities = ["contrary","suction-cups","infiltrator"]
+p. moves = ["cut","bind","tackle","flamethrower","psybeam","peck","thunderbolt","toxic","psychic","hypnosis","double-team","light-screen","reflect","constrict","flash","psywave","rest","rock-slide","slash","substitute","thief","snore","spite","protect","destiny-bond","swagger","attract","sleep-talk","return","frustration","hidden-power","rain-dance","sunny-day","psych-up","torment","flatter","facade","taunt","role-play","superpower","knock-off","snatch","secret-power","camouflage","aerial-ace","calm-mind","pluck","payback","embargo","fling","guard-swap","dark-pulse","night-slash","switcheroo","psycho-cut","trick-room","power-split","foul-play","simple-beam","round","retaliate","topsy-turvy","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 687
+p.weight = 470
+p.height = 15
+p.stats = ["86","92","88","68","75","73"]
+p.abilities = ["contrary","suction-cups","infiltrator"]
+p. moves = ["cut","bind","tackle","flamethrower","psybeam","hyper-beam","peck","thunderbolt","toxic","psychic","hypnosis","double-team","light-screen","reflect","constrict","flash","psywave","rest","rock-slide","slash","substitute","thief","snore","reversal","spite","protect","swagger","attract","sleep-talk","return","frustration","hidden-power","rain-dance","sunny-day","psych-up","torment","facade","taunt","role-play","superpower","knock-off","snatch","secret-power","signal-beam","aerial-ace","block","calm-mind","pluck","payback","embargo","fling","dark-pulse","night-slash","switcheroo","giga-impact","psycho-cut","trick-room","psyshock","foul-play","round","retaliate","topsy-turvy","confide","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 688
+p.weight = 310
+p.height = 5
+p.stats = ["42","52","67","39","56","50"]
+p.abilities = ["tough-claws","sniper","pickpocket"]
+p. moves = ["scratch","swords-dance","cut","sand-attack","water-gun","surf","ice-beam","blizzard","strength","earthquake","dig","toxic","double-team","withdraw","clamp","fury-swipes","rest","rock-slide","slash","substitute","thief","snore","protect","sludge-bomb","mud-slap","icy-wind","sandstorm","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","safeguard","hidden-power","cross-chop","rain-dance","ancient-power","rock-smash","torment","facade","nature-power","taunt","helping-hand","brick-break","endeavor","secret-power","rock-tomb","tickle","aerial-ace","iron-defense","water-sport","water-pulse","payback","embargo","fling","rock-polish","poison-jab","night-slash","x-scissor","switcheroo","shadow-claw","stone-edge","stealth-rock","grass-knot","hone-claws","smack-down","sludge-wave","round","scald","shell-smash","bulldoze","dual-chop","razor-shell","confide","infestation","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 689
+p.weight = 960
+p.height = 13
+p.stats = ["72","105","115","54","86","68"]
+p.abilities = ["tough-claws","sniper","pickpocket"]
+p. moves = ["scratch","swords-dance","cut","sand-attack","water-gun","surf","ice-beam","blizzard","hyper-beam","low-kick","strength","earthquake","dig","toxic","double-team","withdraw","clamp","skull-bash","fury-swipes","rest","rock-slide","slash","substitute","thief","snore","protect","sludge-bomb","mud-slap","icy-wind","sandstorm","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","safeguard","hidden-power","cross-chop","rain-dance","ancient-power","rock-smash","torment","facade","nature-power","taunt","helping-hand","superpower","brick-break","endeavor","secret-power","rock-tomb","aerial-ace","iron-defense","dragon-claw","bulk-up","water-pulse","payback","embargo","fling","rock-polish","poison-jab","night-slash","x-scissor","focus-blast","earth-power","giga-impact","shadow-claw","stone-edge","stealth-rock","grass-knot","hone-claws","smack-down","sludge-wave","round","scald","shell-smash","bulldoze","dual-chop","razor-shell","confide","infestation","power-up-punch","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 690
+p.weight = 73
+p.height = 5
+p.stats = ["50","60","60","60","60","30"]
+p.abilities = ["poison-point","poison-touch","adaptability"]
+p. moves = ["tackle","tail-whip","acid","water-gun","hydro-pump","surf","thunderbolt","toxic","double-team","smokescreen","haze","waterfall","bubble","acid-armor","rest","substitute","snore","protect","feint-attack","sludge-bomb","icy-wind","outrage","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","shadow-ball","hail","facade","secret-power","dive","camouflage","bounce","poison-tail","shock-wave","water-pulse","toxic-spikes","aqua-tail","dragon-pulse","gunk-shot","venoshock","sludge-wave","round","scald","play-rough","confide","venom-drench"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 691
+p.weight = 815
+p.height = 18
+p.stats = ["65","75","90","97","123","44"]
+p.abilities = ["poison-point","poison-touch","adaptability"]
+p. moves = ["tackle","tail-whip","acid","water-gun","hydro-pump","surf","hyper-beam","thunderbolt","thunder","toxic","double-team","smokescreen","waterfall","bubble","rest","substitute","snore","protect","feint-attack","sludge-bomb","icy-wind","outrage","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","twister","rain-dance","shadow-ball","hail","facade","secret-power","dive","camouflage","bounce","poison-tail","shock-wave","water-pulse","aqua-tail","dragon-pulse","focus-blast","giga-impact","draco-meteor","gunk-shot","venoshock","sludge-wave","round","scald","dragon-tail","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 692
+p.weight = 83
+p.height = 5
+p.stats = ["50","53","62","58","63","44"]
+p.abilities = ["mega-launcher"]
+p. moves = ["vise-grip","swords-dance","cut","water-gun","surf","ice-beam","bubble-beam","toxic","double-team","waterfall","bubble","splash","crabhammer","rest","rock-slide","substitute","snore","flail","protect","sludge-bomb","icy-wind","endure","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","facade","helping-hand","secret-power","dive","muddy-water","bounce","water-sport","water-pulse","u-turn","aqua-tail","dragon-pulse","flash-cannon","aqua-jet","venoshock","smack-down","sludge-wave","entrainment","round","scald","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 693
+p.weight = 353
+p.height = 13
+p.stats = ["71","73","88","120","89","59"]
+p.abilities = ["mega-launcher"]
+p. moves = ["vise-grip","swords-dance","cut","water-gun","surf","ice-beam","bubble-beam","hyper-beam","toxic","double-team","waterfall","bubble","splash","crabhammer","rest","rock-slide","substitute","snore","flail","protect","sludge-bomb","icy-wind","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","shadow-ball","facade","helping-hand","secret-power","dive","muddy-water","bounce","water-sport","water-pulse","u-turn","aura-sphere","dark-pulse","aqua-tail","dragon-pulse","focus-blast","giga-impact","flash-cannon","aqua-jet","venoshock","smack-down","sludge-wave","round","scald","heal-pulse","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 694
+p.weight = 60
+p.height = 5
+p.stats = ["44","38","33","61","43","70"]
+p.abilities = ["dry-skin","sand-veil","solar-power"]
+p. moves = ["pound","razor-wind","cut","tail-whip","surf","thunder-shock","thunderbolt","thunder-wave","thunder","dig","toxic","agility","quick-attack","double-team","light-screen","glare","flash","rest","rock-slide","substitute","snore","protect","mud-slap","sandstorm","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","psych-up","facade","charge","secret-power","camouflage","rock-tomb","signal-beam","shock-wave","u-turn","magnet-rise","dark-pulse","grass-knot","charge-beam","low-sweep","round","volt-switch","bulldoze","dragon-tail","electroweb","wild-charge","parabolic-charge","electrify","confide","electric-terrain"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 695
+p.weight = 210
+p.height = 10
+p.stats = ["62","55","52","109","94","109"]
+p.abilities = ["dry-skin","sand-veil","solar-power"]
+p. moves = ["fire-punch","thunder-punch","razor-wind","cut","surf","hyper-beam","low-kick","thunderbolt","thunder-wave","thunder","dig","toxic","quick-attack","double-team","light-screen","flash","rest","rock-slide","substitute","snore","protect","sandstorm","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","psych-up","facade","charge","secret-power","hyper-voice","rock-tomb","signal-beam","shock-wave","u-turn","magnet-rise","dark-pulse","dragon-pulse","focus-blast","giga-impact","grass-knot","charge-beam","low-sweep","round","volt-switch","bulldoze","dragon-tail","electroweb","wild-charge","parabolic-charge","electrify","confide","eerie-impulse","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 696
+p.weight = 260
+p.height = 8
+p.stats = ["58","89","77","45","45","48"]
+p.abilities = ["strong-jaw","sturdy"]
+p. moves = ["stomp","horn-drill","tackle","thrash","tail-whip","bite","roar","strength","earthquake","dig","toxic","double-team","bide","rest","rock-slide","substitute","snore","curse","protect","outrage","sandstorm","charm","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","sunny-day","crunch","ancient-power","rock-smash","facade","superpower","brick-break","secret-power","hyper-voice","poison-fang","rock-tomb","aerial-ace","iron-defense","block","dragon-claw","dragon-dance","rock-polish","dark-pulse","dragon-pulse","earth-power","thunder-fang","ice-fang","fire-fang","zen-headbutt","draco-meteor","iron-head","stone-edge","stealth-rock","hone-claws","round","bulldoze","dragon-tail","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 697
+p.weight = 2700
+p.height = 25
+p.stats = ["82","121","119","69","59","71"]
+p.abilities = ["strong-jaw","rock-head"]
+p. moves = ["stomp","horn-drill","tackle","thrash","tail-whip","bite","roar","hyper-beam","strength","earthquake","dig","toxic","double-team","bide","rest","rock-slide","substitute","snore","protect","outrage","sandstorm","charm","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","sunny-day","crunch","ancient-power","rock-smash","facade","superpower","brick-break","secret-power","hyper-voice","rock-tomb","aerial-ace","iron-defense","block","dragon-claw","rock-polish","dark-pulse","dragon-pulse","earth-power","giga-impact","zen-headbutt","draco-meteor","iron-head","stone-edge","stealth-rock","head-smash","hone-claws","round","bulldoze","dragon-tail","confide","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 698
+p.weight = 252
+p.height = 13
+p.stats = ["77","59","50","67","63","46"]
+p.abilities = ["refrigerate","snow-warning"]
+p. moves = ["take-down","growl","roar","mist","ice-beam","blizzard","aurora-beam","hyper-beam","thunderbolt","thunder-wave","rock-throw","toxic","double-team","barrier","light-screen","haze","reflect","dream-eater","flash","rest","rock-slide","substitute","snore","powder-snow","protect","icy-wind","outrage","sandstorm","swagger","attract","sleep-talk","return","frustration","safeguard","encore","iron-tail","hidden-power","rain-dance","mirror-coat","psych-up","ancient-power","rock-smash","hail","facade","nature-power","secret-power","hyper-voice","rock-tomb","iron-defense","calm-mind","water-pulse","magnet-rise","rock-polish","dark-pulse","aqua-tail","earth-power","avalanche","zen-headbutt","flash-cannon","discharge","iron-head","stone-edge","stealth-rock","charge-beam","round","echoed-voice","bulldoze","frost-breath","dragon-tail","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 699
+p.weight = 2250
+p.height = 27
+p.stats = ["123","77","72","99","92","58"]
+p.abilities = ["refrigerate","snow-warning"]
+p. moves = ["take-down","growl","roar","mist","ice-beam","blizzard","aurora-beam","hyper-beam","thunderbolt","thunder-wave","thunder","rock-throw","earthquake","toxic","psychic","double-team","light-screen","reflect","dream-eater","flash","rest","rock-slide","substitute","snore","powder-snow","protect","icy-wind","outrage","sandstorm","swagger","attract","sleep-talk","return","frustration","safeguard","encore","iron-tail","hidden-power","rain-dance","psych-up","ancient-power","rock-smash","hail","facade","nature-power","secret-power","hyper-voice","rock-tomb","iron-defense","calm-mind","water-pulse","magnet-rise","rock-polish","dark-pulse","aqua-tail","earth-power","giga-impact","avalanche","zen-headbutt","flash-cannon","iron-head","stone-edge","stealth-rock","charge-beam","round","echoed-voice","bulldoze","frost-breath","dragon-tail","freeze-dry","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 700
+p.weight = 235
+p.height = 10
+p.stats = ["95","65","65","110","130","60"]
+p.abilities = ["cute-charm","pixilate"]
+p. moves = ["cut","sand-attack","tackle","tail-whip","hyper-beam","dig","toxic","quick-attack","double-team","light-screen","reflect","swift","flash","rest","substitute","snore","protect","swagger","attract","sleep-talk","heal-bell","return","frustration","safeguard","iron-tail","hidden-power","rain-dance","sunny-day","psych-up","shadow-ball","facade","helping-hand","magic-coat","skill-swap","secret-power","hyper-voice","covet","calm-mind","last-resort","giga-impact","psyshock","round","echoed-voice","retaliate","work-up","disarming-voice","draining-kiss","misty-terrain","fairy-wind","moonblast","confide","dazzling-gleam","baby-doll-eyes"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 701
+p.weight = 215
+p.height = 8
+p.stats = ["78","92","75","74","63","118"]
+p.abilities = ["limber","unburden","mold-breaker"]
+p. moves = ["karate-chop","fire-punch","thunder-punch","swords-dance","cut","wing-attack","fly","tackle","low-kick","strength","dig","toxic","agility","double-team","high-jump-kick","sky-attack","rest","rock-slide","substitute","snore","protect","detect","false-swipe","swagger","steel-wing","attract","sleep-talk","return","frustration","baton-pass","encore","hidden-power","rain-dance","sunny-day","rock-smash","torment","facade","focus-punch","taunt","helping-hand","superpower","brick-break","endeavor","secret-power","feather-dance","mud-sport","rock-tomb","aerial-ace","bulk-up","bounce","roost","feint","tailwind","u-turn","payback","fling","me-first","last-resort","poison-jab","x-scissor","drain-punch","focus-blast","giga-impact","zen-headbutt","iron-head","stone-edge","grass-knot","hone-claws","low-sweep","entrainment","round","quick-guard","ally-switch","sky-drop","acrobatics","retaliate","work-up","dual-chop","flying-press","confide","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 702
+p.weight = 22
+p.height = 2
+p.stats = ["67","58","57","81","67","101"]
+p.abilities = ["cheek-pouch","pickup","plus"]
+p. moves = ["thunder-punch","cut","tackle","tail-whip","thunder-shock","thunderbolt","thunder-wave","thunder","dig","toxic","double-team","flash","rest","super-fang","substitute","thief","snore","protect","charm","swagger","attract","sleep-talk","return","frustration","iron-tail","hidden-power","rain-dance","sunny-day","facade","charge","helping-hand","recycle","secret-power","signal-beam","aerial-ace","covet","shock-wave","natural-gift","u-turn","fling","last-resort","magnet-rise","giga-impact","discharge","grass-knot","charge-beam","entrainment","round","retaliate","volt-switch","electroweb","wild-charge","parabolic-charge","play-rough","confide","eerie-impulse","nuzzle","tearful-look"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 703
+p.weight = 57
+p.height = 3
+p.stats = ["50","50","150","50","150","50"]
+p.abilities = ["clear-body","sturdy"]
+p. moves = ["tackle","rock-throw","toxic","psychic","double-team","harden","light-screen","reflect","flash","explosion","rest","rock-slide","sharpen","substitute","snore","flail","protect","sandstorm","swagger","sleep-talk","return","frustration","safeguard","hidden-power","sunny-day","psych-up","ancient-power","hail","facade","nature-power","magic-coat","skill-swap","secret-power","rock-tomb","iron-defense","covet","calm-mind","gravity","gyro-ball","magnet-rise","rock-polish","power-gem","earth-power","trick-room","stone-edge","stealth-rock","guard-split","wonder-room","smack-down","after-you","round","moonblast","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 704
+p.weight = 28
+p.height = 3
+p.stats = ["45","50","35","55","75","40"]
+p.abilities = ["sap-sipper","hydration","gooey"]
+p. moves = ["tackle","body-slam","counter","absorb","thunderbolt","toxic","double-team","bide","bubble","acid-armor","rest","rock-slide","substitute","snore","curse","flail","protect","sludge-bomb","outrage","endure","swagger","attract","sleep-talk","return","frustration","dragon-breath","iron-tail","hidden-power","rain-dance","sunny-day","facade","secret-power","muddy-water","poison-tail","shock-wave","water-pulse","dragon-pulse","draco-meteor","sludge-wave","round","confide","infestation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 705
+p.weight = 175
+p.height = 8
+p.stats = ["68","75","53","83","113","60"]
+p.abilities = ["sap-sipper","hydration","gooey"]
+p. moves = ["tackle","body-slam","ice-beam","blizzard","absorb","thunderbolt","toxic","double-team","bide","bubble","rest","rock-slide","substitute","snore","flail","protect","sludge-bomb","outrage","swagger","attract","sleep-talk","return","frustration","dragon-breath","iron-tail","hidden-power","rain-dance","sunny-day","facade","secret-power","muddy-water","shock-wave","water-pulse","dragon-pulse","draco-meteor","sludge-wave","round","confide","infestation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 706
+p.weight = 1505
+p.height = 20
+p.stats = ["90","100","70","110","150","80"]
+p.abilities = ["sap-sipper","hydration","gooey"]
+p. moves = ["fire-punch","thunder-punch","tackle","body-slam","flamethrower","ice-beam","blizzard","hyper-beam","strength","absorb","thunderbolt","thunder","earthquake","toxic","double-team","bide","fire-blast","bubble","rest","rock-slide","substitute","snore","flail","protect","sludge-bomb","outrage","swagger","attract","sleep-talk","return","frustration","dragon-breath","iron-tail","hidden-power","rain-dance","sunny-day","rock-smash","hail","facade","focus-punch","superpower","secret-power","muddy-water","shock-wave","water-pulse","feint","aqua-tail","dragon-pulse","focus-blast","giga-impact","draco-meteor","power-whip","sludge-wave","round","incinerate","bulldoze","dragon-tail","confide","infestation","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 707
+p.weight = 30
+p.height = 2
+p.stats = ["57","80","91","80","87","75"]
+p.abilities = ["prankster","magician"]
+p. moves = ["cut","tackle","hyper-beam","thunder-wave","toxic","psychic","double-team","light-screen","reflect","rest","substitute","thief","snore","protect","spikes","lock-on","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","sunny-day","psych-up","torment","facade","magic-coat","recycle","imprison","secret-power","astonish","metal-sound","iron-defense","covet","calm-mind","heal-block","last-resort","magnet-rise","switcheroo","giga-impact","mirror-shot","flash-cannon","psyshock","magic-room","foul-play","round","draining-kiss","crafty-shield","play-rough","fairy-wind","fairy-lock","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 708
+p.weight = 70
+p.height = 4
+p.stats = ["43","70","48","50","60","38"]
+p.abilities = ["natural-cure","frisk","harvest"]
+p. moves = ["cut","tackle","strength","leech-seed","growth","solar-beam","dig","toxic","psychic","double-team","confuse-ray","reflect","dream-eater","rest","rock-slide","substitute","thief","snore","curse","spite","protect","feint-attack","destiny-bond","giga-drain","swagger","attract","sleep-talk","return","frustration","safeguard","pain-split","hidden-power","sunny-day","shadow-ball","rock-smash","will-o-wisp","facade","nature-power","trick","role-play","ingrain","magic-coat","skill-swap","imprison","grudge","secret-power","astonish","worry-seed","poison-jab","dark-pulse","seed-bomb","energy-ball","shadow-claw","trick-room","grass-knot","wood-hammer","foul-play","round","bestow","bulldoze","horn-leech","phantom-force","forests-curse","confide","venom-drench","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 709
+p.weight = 710
+p.height = 15
+p.stats = ["85","110","76","65","82","56"]
+p.abilities = ["natural-cure","frisk","harvest"]
+p. moves = ["cut","tackle","hyper-beam","strength","leech-seed","growth","solar-beam","earthquake","dig","toxic","psychic","double-team","confuse-ray","reflect","dream-eater","rest","rock-slide","substitute","thief","snore","curse","spite","protect","feint-attack","destiny-bond","giga-drain","swagger","attract","sleep-talk","return","frustration","safeguard","pain-split","hidden-power","sunny-day","shadow-ball","rock-smash","will-o-wisp","facade","nature-power","trick","role-play","ingrain","magic-coat","skill-swap","secret-power","astonish","block","calm-mind","worry-seed","poison-jab","dark-pulse","seed-bomb","x-scissor","drain-punch","focus-blast","energy-ball","giga-impact","shadow-claw","trick-room","grass-knot","wood-hammer","hone-claws","foul-play","round","bulldoze","horn-leech","phantom-force","forests-curse","confide","power-up-punch","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 710
+p.weight = 50
+p.height = 4
+p.stats = ["49","66","70","44","55","51"]
+p.abilities = ["pickup","frisk","insomnia"]
+p. moves = ["disable","flamethrower","leech-seed","razor-leaf","solar-beam","toxic","psychic","double-team","confuse-ray","light-screen","fire-blast","dream-eater","flash","explosion","rest","rock-slide","substitute","thief","curse","spite","protect","scary-face","sludge-bomb","destiny-bond","giga-drain","swagger","attract","sleep-talk","return","frustration","safeguard","pain-split","synthesis","hidden-power","sunny-day","shadow-ball","rock-smash","will-o-wisp","facade","nature-power","trick","role-play","magic-coat","skill-swap","secret-power","astonish","bullet-seed","gyro-ball","worry-seed","dark-pulse","seed-bomb","energy-ball","shadow-sneak","trick-room","grass-knot","charge-beam","flame-charge","foul-play","round","incinerate","bestow","trick-or-treat","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 711
+p.weight = 125
+p.height = 9
+p.stats = ["65","90","122","58","75","84"]
+p.abilities = ["pickup","frisk","insomnia"]
+p. moves = ["flamethrower","hyper-beam","leech-seed","razor-leaf","solar-beam","toxic","psychic","double-team","confuse-ray","light-screen","fire-blast","dream-eater","flash","explosion","rest","rock-slide","substitute","thief","spite","protect","scary-face","sludge-bomb","giga-drain","swagger","attract","sleep-talk","return","frustration","safeguard","pain-split","synthesis","hidden-power","sunny-day","shadow-ball","rock-smash","will-o-wisp","facade","nature-power","trick","role-play","magic-coat","skill-swap","secret-power","astonish","bullet-seed","gyro-ball","worry-seed","dark-pulse","seed-bomb","focus-blast","energy-ball","giga-impact","shadow-sneak","trick-room","grass-knot","charge-beam","flame-charge","foul-play","round","incinerate","phantom-force","trick-or-treat","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 712
+p.weight = 995
+p.height = 10
+p.stats = ["55","69","85","32","35","28"]
+p.abilities = ["own-tempo","ice-body","sturdy"]
+p. moves = ["tackle","take-down","double-edge","bite","mist","surf","ice-beam","blizzard","strength","toxic","double-team","recover","harden","barrier","flash","rest","rock-slide","sharpen","substitute","snore","curse","powder-snow","protect","icy-wind","swagger","attract","sleep-talk","return","frustration","safeguard","rapid-spin","hidden-power","rain-dance","mirror-coat","rock-smash","hail","facade","secret-power","ice-ball","rock-tomb","iron-defense","water-pulse","gyro-ball","rock-polish","avalanche","ice-fang","flash-cannon","stone-edge","after-you","round","frost-breath","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 713
+p.weight = 5050
+p.height = 20
+p.stats = ["95","117","184","44","46","28"]
+p.abilities = ["own-tempo","ice-body","sturdy"]
+p. moves = ["tackle","body-slam","take-down","double-edge","bite","roar","surf","ice-beam","blizzard","hyper-beam","strength","earthquake","toxic","double-team","recover","harden","skull-bash","flash","rest","rock-slide","sharpen","substitute","snore","curse","powder-snow","protect","icy-wind","swagger","attract","sleep-talk","return","frustration","safeguard","rapid-spin","hidden-power","rain-dance","crunch","rock-smash","hail","facade","superpower","secret-power","ice-ball","rock-tomb","iron-defense","block","water-pulse","gyro-ball","rock-polish","giga-impact","avalanche","ice-fang","flash-cannon","iron-head","stone-edge","wide-guard","after-you","round","bulldoze","frost-breath","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 714
+p.weight = 80
+p.height = 5
+p.stats = ["40","30","35","45","40","55"]
+p.abilities = ["frisk","infiltrator","telepathy"]
+p. moves = ["razor-wind","cut","gust","wing-attack","whirlwind","fly","tackle","bite","supersonic","absorb","solar-beam","toxic","psychic","agility","screech","double-team","dream-eater","leech-life","sky-attack","rest","super-fang","substitute","thief","snore","protect","outrage","swagger","steel-wing","attract","sleep-talk","return","frustration","iron-tail","hidden-power","sunny-day","shadow-ball","uproar","heat-wave","torment","facade","taunt","brick-break","snatch","secret-power","hyper-voice","air-cutter","aerial-ace","water-pulse","roost","tailwind","u-turn","dark-pulse","air-slash","x-scissor","dragon-pulse","switcheroo","shadow-claw","draco-meteor","round","echoed-voice","acrobatics","wild-charge","hurricane","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 715
+p.weight = 850
+p.height = 15
+p.stats = ["85","70","80","97","80","123"]
+p.abilities = ["frisk","infiltrator","telepathy"]
+p. moves = ["razor-wind","cut","gust","wing-attack","whirlwind","fly","tackle","bite","supersonic","flamethrower","hyper-beam","absorb","solar-beam","toxic","psychic","agility","screech","double-team","dream-eater","leech-life","sky-attack","rest","super-fang","substitute","thief","snore","protect","outrage","swagger","steel-wing","attract","sleep-talk","return","frustration","iron-tail","moonlight","hidden-power","sunny-day","shadow-ball","uproar","heat-wave","torment","facade","taunt","brick-break","snatch","secret-power","hyper-voice","air-cutter","aerial-ace","dragon-claw","water-pulse","roost","tailwind","u-turn","dark-pulse","air-slash","x-scissor","dragon-pulse","focus-blast","giga-impact","shadow-claw","draco-meteor","hone-claws","round","echoed-voice","acrobatics","wild-charge","hurricane","boomburst","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 716
+p.weight = 2150
+p.height = 30
+p.stats = ["126","131","95","131","98","99"]
+p.abilities = ["fairy-aura"]
+p. moves = ["cut","take-down","roar","aurora-beam","hyper-beam","thunderbolt","thunder-wave","thunder","toxic","psychic","double-team","light-screen","reflect","flash","rest","rock-slide","substitute","snore","protect","outrage","swagger","sleep-talk","return","frustration","megahorn","hidden-power","rain-dance","sunny-day","psych-up","hail","facade","nature-power","ingrain","endeavor","secret-power","hyper-voice","aromatherapy","block","calm-mind","gravity","close-combat","night-slash","focus-blast","giga-impact","zen-headbutt","flash-cannon","grass-knot","wonder-room","psyshock","round","echoed-voice","heal-pulse","horn-leech","misty-terrain","moonblast","confide","geomancy","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 717
+p.weight = 2030
+p.height = 58
+p.stats = ["126","131","95","131","98","99"]
+p.abilities = ["dark-aura"]
+p. moves = ["razor-wind","cut","fly","disable","hyper-beam","toxic","psychic","double-team","dream-eater","sky-attack","rest","rock-slide","substitute","thief","snore","protect","swagger","steel-wing","sleep-talk","return","frustration","hidden-power","rain-dance","sunny-day","shadow-ball","heat-wave","torment","facade","taunt","knock-off","secret-power","hyper-voice","aerial-ace","block","dragon-claw","roost","tailwind","u-turn","embargo","sucker-punch","dark-pulse","air-slash","dragon-rush","focus-blast","giga-impact","shadow-claw","zen-headbutt","hone-claws","foul-play","round","sky-drop","acrobatics","hurricane","snarl","phantom-force","confide","oblivion-wing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 718
+p.weight = 3050
+p.height = 50
+p.stats = ["108","100","121","81","95","95"]
+p.abilities = ["aura-break"]
+p. moves = ["bind","bite","hyper-beam","strength","earthquake","dig","toxic","double-team","haze","glare","rest","rock-slide","substitute","snore","spite","protect","outrage","sandstorm","swagger","sleep-talk","return","frustration","safeguard","pain-split","dragon-breath","iron-tail","hidden-power","sunny-day","crunch","extreme-speed","rock-smash","facade","superpower","brick-break","secret-power","camouflage","hyper-voice","block","dragon-dance","shock-wave","dragon-pulse","focus-blast","earth-power","giga-impact","zen-headbutt","draco-meteor","stone-edge","grass-knot","sludge-wave","coil","round","bulldoze","dragon-tail","confide","lands-wrath"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 719
+p.weight = 88
+p.height = 7
+p.stats = ["50","100","150","100","150","50"]
+p.abilities = ["clear-body"]
+p. moves = ["tackle","hyper-beam","rock-throw","toxic","psychic","double-team","harden","light-screen","reflect","flash","explosion","rest","rock-slide","sharpen","substitute","snore","flail","protect","sandstorm","swagger","sleep-talk","heal-bell","return","frustration","safeguard","hidden-power","sunny-day","psych-up","ancient-power","hail","facade","nature-power","helping-hand","endeavor","skill-swap","secret-power","rock-tomb","iron-defense","covet","calm-mind","gravity","gyro-ball","last-resort","magnet-rise","rock-polish","power-gem","earth-power","giga-impact","trick-room","stone-edge","stealth-rock","guard-split","wonder-room","psyshock","smack-down","after-you","round","moonblast","confide","diamond-storm","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 720
+p.weight = 90
+p.height = 5
+p.stats = ["80","110","60","150","130","70"]
+p.abilities = ["magician"]
+p. moves = ["fire-punch","ice-punch","thunder-punch","psybeam","hyper-beam","thunderbolt","thunder-wave","toxic","confusion","psychic","double-team","light-screen","reflect","dream-eater","flash","rest","substitute","thief","snore","protect","destiny-bond","swagger","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","sunny-day","psych-up","shadow-ball","uproar","torment","facade","focus-punch","taunt","trick","role-play","magic-coat","recycle","brick-break","knock-off","skill-swap","snatch","secret-power","astonish","signal-beam","block","covet","calm-mind","shock-wave","gravity","embargo","fling","last-resort","dark-pulse","drain-punch","focus-blast","energy-ball","giga-impact","nasty-plot","zen-headbutt","trick-room","gunk-shot","grass-knot","charge-beam","guard-split","power-split","wonder-room","psyshock","magic-room","foul-play","round","ally-switch","quash","dual-chop","phantom-force","confide","hyperspace-hole","power-up-punch"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 721
+p.weight = 1950
+p.height = 17
+p.stats = ["80","110","120","130","90","70"]
+p.abilities = ["water-absorb"]
+p. moves = ["cut","stomp","body-slam","take-down","roar","flamethrower","mist","hydro-pump","hyper-beam","strength","solar-beam","earthquake","toxic","double-team","haze","fire-blast","explosion","rest","rock-slide","substitute","snore","protect","sludge-bomb","sandstorm","swagger","sleep-talk","return","frustration","hidden-power","sunny-day","rock-smash","heat-wave","will-o-wisp","facade","superpower","brick-break","secret-power","weather-ball","overheat","water-pulse","gyro-ball","fling","flare-blitz","focus-blast","earth-power","giga-impact","flash-cannon","stone-edge","smack-down","sludge-wave","flame-charge","round","scald","incinerate","bulldoze","confide","steam-eruption"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 722
+p.weight = 15
+p.height = 3
+p.stats = ["68","55","55","50","50","42"]
+p.abilities = ["overgrow","long-reach"]
+p. moves = ["swords-dance","fury-attack","tackle","growl","peck","razor-leaf","solar-beam","toxic","double-team","confuse-ray","light-screen","haze","rest","substitute","curse","protect","foresight","false-swipe","swagger","steel-wing","attract","sleep-talk","return","frustration","safeguard","baton-pass","synthesis","hidden-power","sunny-day","facade","nature-power","feather-dance","astonish","leaf-blade","roost","pluck","sucker-punch","energy-ball","brave-bird","nasty-plot","shadow-claw","defog","grass-knot","ominous-wind","round","echoed-voice","grass-pledge","work-up","confide","leafage"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 723
+p.weight = 160
+p.height = 7
+p.stats = ["78","75","75","70","70","52"]
+p.abilities = ["overgrow","long-reach"]
+p. moves = ["swords-dance","fury-attack","tackle","growl","peck","razor-leaf","solar-beam","toxic","double-team","light-screen","rest","substitute","protect","foresight","false-swipe","swagger","steel-wing","attract","sleep-talk","return","frustration","safeguard","synthesis","hidden-power","sunny-day","facade","nature-power","feather-dance","astonish","leaf-blade","roost","pluck","sucker-punch","energy-ball","brave-bird","nasty-plot","shadow-claw","grass-knot","ominous-wind","round","echoed-voice","grass-pledge","work-up","confide","leafage"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 724
+p.weight = 366
+p.height = 16
+p.stats = ["78","107","75","100","100","70"]
+p.abilities = ["overgrow","long-reach"]
+p. moves = ["swords-dance","fury-attack","tackle","growl","peck","razor-leaf","solar-beam","toxic","double-team","light-screen","rest","substitute","protect","foresight","false-swipe","swagger","steel-wing","attract","sleep-talk","return","frustration","safeguard","synthesis","hidden-power","sunny-day","shadow-ball","facade","nature-power","feather-dance","astonish","frenzy-plant","leaf-blade","roost","pluck","u-turn","sucker-punch","energy-ball","brave-bird","giga-impact","nasty-plot","shadow-claw","shadow-sneak","leaf-storm","grass-knot","ominous-wind","smack-down","low-sweep","round","echoed-voice","acrobatics","grass-pledge","work-up","phantom-force","confide","spirit-shackle","leafage"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 725
+p.weight = 43
+p.height = 4
+p.stats = ["45","65","40","60","40","70"]
+p.abilities = ["blaze","intimidate"]
+p. moves = ["scratch","swords-dance","double-kick","body-slam","thrash","leer","bite","growl","roar","ember","flamethrower","toxic","double-team","lick","fire-blast","leech-life","fury-swipes","rest","substitute","protect","scary-face","outrage","swagger","attract","sleep-talk","return","frustration","hidden-power","sunny-day","crunch","fake-out","heat-wave","torment","will-o-wisp","facade","taunt","revenge","overheat","bulk-up","u-turn","flare-blitz","nasty-plot","shadow-claw","fire-fang","flame-charge","round","acrobatics","fire-pledge","work-up","confide","power-trip"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 726
+p.weight = 250
+p.height = 7
+p.stats = ["65","85","50","80","50","90"]
+p.abilities = ["blaze","intimidate"]
+p. moves = ["scratch","swords-dance","double-kick","thrash","leer","bite","growl","roar","ember","flamethrower","toxic","double-team","lick","fire-blast","leech-life","fury-swipes","rest","substitute","protect","scary-face","outrage","swagger","attract","sleep-talk","return","frustration","hidden-power","sunny-day","torment","will-o-wisp","facade","taunt","overheat","bulk-up","u-turn","flare-blitz","shadow-claw","fire-fang","flame-charge","round","acrobatics","fire-pledge","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 727
+p.weight = 830
+p.height = 18
+p.stats = ["95","115","90","80","90","60"]
+p.abilities = ["blaze","intimidate"]
+p. moves = ["scratch","swords-dance","double-kick","thrash","leer","bite","growl","roar","ember","flamethrower","hyper-beam","earthquake","toxic","double-team","lick","fire-blast","leech-life","fury-swipes","rest","substitute","protect","scary-face","outrage","swagger","attract","sleep-talk","return","frustration","hidden-power","cross-chop","sunny-day","torment","will-o-wisp","facade","taunt","brick-break","blast-burn","overheat","bulk-up","u-turn","embargo","fling","flare-blitz","dark-pulse","focus-blast","giga-impact","shadow-claw","fire-fang","flame-charge","low-sweep","round","quash","acrobatics","fire-pledge","bulldoze","work-up","snarl","confide","darkest-lariat","throat-chop","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 728
+p.weight = 75
+p.height = 4
+p.stats = ["50","54","54","66","56","40"]
+p.abilities = ["torrent","liquid-voice"]
+p. moves = ["pound","double-slap","growl","sing","water-gun","hydro-pump","surf","ice-beam","blizzard","bubble-beam","toxic","double-team","waterfall","amnesia","rest","substitute","protect","perish-song","icy-wind","charm","swagger","attract","sleep-talk","return","frustration","encore","hidden-power","rain-dance","hail","facade","hyper-voice","aqua-ring","captivate","aqua-jet","wonder-room","round","echoed-voice","scald","acrobatics","water-pledge","work-up","disarming-voice","misty-terrain","moonblast","confide","aromatic-mist","baby-doll-eyes"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 729
+p.weight = 175
+p.height = 6
+p.stats = ["60","69","69","91","81","50"]
+p.abilities = ["torrent","liquid-voice"]
+p. moves = ["pound","double-slap","growl","sing","water-gun","hydro-pump","surf","ice-beam","blizzard","bubble-beam","toxic","double-team","waterfall","rest","substitute","protect","icy-wind","swagger","attract","sleep-talk","return","frustration","encore","hidden-power","rain-dance","hail","facade","hyper-voice","captivate","aqua-jet","round","echoed-voice","scald","acrobatics","water-pledge","work-up","disarming-voice","misty-terrain","moonblast","confide","baby-doll-eyes"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 730
+p.weight = 440
+p.height = 18
+p.stats = ["80","74","74","126","116","60"]
+p.abilities = ["torrent","liquid-voice"]
+p. moves = ["pound","double-slap","growl","sing","water-gun","hydro-pump","surf","ice-beam","blizzard","bubble-beam","toxic","psychic","double-team","light-screen","reflect","waterfall","rest","substitute","protect","icy-wind","swagger","attract","sleep-talk","return","frustration","encore","hidden-power","rain-dance","psych-up","shadow-ball","hail","facade","hyper-voice","hydro-cannon","energy-ball","giga-impact","captivate","aqua-jet","round","echoed-voice","scald","acrobatics","water-pledge","work-up","disarming-voice","misty-terrain","moonblast","confide","dazzling-gleam","baby-doll-eyes","sparkling-aria"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 731
+p.weight = 12
+p.height = 3
+p.stats = ["35","75","30","30","30","65"]
+p.abilities = ["keen-eye","skill-link","pickup"]
+p. moves = ["swords-dance","fly","fury-attack","growl","supersonic","peck","drill-peck","toxic","screech","double-team","mirror-move","rest","substitute","thief","protect","swagger","steel-wing","attract","sleep-talk","return","frustration","hidden-power","sunny-day","rock-smash","uproar","brick-break","feather-dance","hyper-voice","bullet-seed","aerial-ace","roost","pluck","tailwind","u-turn","brave-bird","smack-down","flame-charge","round","echoed-voice","work-up","boomburst","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 732
+p.weight = 148
+p.height = 6
+p.stats = ["55","85","50","40","50","75"]
+p.abilities = ["keen-eye","skill-link","pickup"]
+p. moves = ["swords-dance","fly","fury-attack","growl","supersonic","peck","drill-peck","toxic","screech","double-team","rest","substitute","thief","protect","swagger","steel-wing","attract","sleep-talk","return","frustration","hidden-power","sunny-day","rock-smash","brick-break","feather-dance","hyper-voice","bullet-seed","aerial-ace","rock-blast","roost","pluck","u-turn","smack-down","flame-charge","round","echoed-voice","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 733
+p.weight = 260
+p.height = 11
+p.stats = ["80","120","75","75","75","60"]
+p.abilities = ["keen-eye","skill-link","sheer-force"]
+p. moves = ["swords-dance","fly","fury-attack","growl","supersonic","peck","drill-peck","toxic","screech","double-team","rest","substitute","thief","protect","swagger","steel-wing","attract","sleep-talk","return","frustration","hidden-power","sunny-day","rock-smash","brick-break","feather-dance","hyper-voice","overheat","bullet-seed","aerial-ace","rock-blast","roost","pluck","u-turn","flash-cannon","smack-down","flame-charge","round","echoed-voice","work-up","confide","beak-blast"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 734
+p.weight = 60
+p.height = 4
+p.stats = ["48","70","30","30","30","45"]
+p.abilities = ["stakeout","strong-jaw","adaptability"]
+p. moves = ["sand-attack","tackle","take-down","thrash","leer","bite","earthquake","toxic","double-team","bide","rest","hyper-fang","super-fang","substitute","thief","protect","scary-face","mud-slap","sandstorm","swagger","attract","sleep-talk","return","frustration","pursuit","hidden-power","crunch","torment","facade","taunt","revenge","yawn","odor-sleuth","rock-tomb","u-turn","payback","last-resort","thunder-fang","ice-fang","fire-fang","round","echoed-voice","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 735
+p.weight = 142
+p.height = 7
+p.stats = ["88","110","60","55","60","45"]
+p.abilities = ["stakeout","strong-jaw","adaptability"]
+p. moves = ["sand-attack","tackle","take-down","thrash","leer","bite","roar","earthquake","toxic","double-team","bide","rest","hyper-fang","super-fang","substitute","thief","protect","scary-face","mud-slap","sandstorm","swagger","attract","sleep-talk","return","frustration","pursuit","hidden-power","crunch","torment","facade","taunt","yawn","odor-sleuth","rock-tomb","u-turn","payback","fling","round","echoed-voice","bulldoze","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 736
+p.weight = 44
+p.height = 4
+p.stats = ["47","62","45","55","45","46"]
+p.abilities = ["swarm"]
+p. moves = ["vise-grip","bite","string-shot","thunderbolt","thunder-wave","dig","toxic","double-team","harden","light-screen","rest","substitute","protect","mud-slap","endure","swagger","spark","attract","sleep-talk","return","frustration","hidden-power","rain-dance","crunch","facade","mud-shot","poison-jab","x-scissor","bug-bite","charge-beam","round","acrobatics","volt-switch","electroweb","wild-charge","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 737
+p.weight = 105
+p.height = 5
+p.stats = ["57","82","95","55","75","36"]
+p.abilities = ["battery"]
+p. moves = ["vise-grip","bite","string-shot","thunderbolt","thunder-wave","dig","toxic","double-team","light-screen","rest","substitute","protect","mud-slap","swagger","spark","attract","sleep-talk","return","frustration","hidden-power","rain-dance","crunch","facade","charge","iron-defense","poison-jab","x-scissor","discharge","bug-bite","charge-beam","round","acrobatics","volt-switch","wild-charge","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 738
+p.weight = 450
+p.height = 15
+p.stats = ["77","70","90","145","75","43"]
+p.abilities = ["levitate"]
+p. moves = ["vise-grip","guillotine","bite","hyper-beam","solar-beam","string-shot","thunderbolt","thunder-wave","thunder","dig","toxic","agility","double-team","light-screen","rest","substitute","protect","mud-slap","zap-cannon","swagger","spark","attract","sleep-talk","return","frustration","hidden-power","rain-dance","facade","charge","roost","poison-jab","air-slash","x-scissor","bug-buzz","energy-ball","giga-impact","flash-cannon","bug-bite","charge-beam","round","sky-drop","acrobatics","volt-switch","wild-charge","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 739
+p.weight = 70
+p.height = 6
+p.stats = ["47","82","57","42","47","63"]
+p.abilities = ["hyper-cutter","iron-fist","anger-point"]
+p. moves = ["leer","bubble-beam","earthquake","toxic","double-team","amnesia","bubble","dizzy-punch","crabhammer","rest","rock-slide","substitute","thief","reversal","protect","swagger","attract","sleep-talk","return","frustration","dynamic-punch","pursuit","hidden-power","rain-dance","sunny-day","rock-smash","facade","superpower","brick-break","endeavor","rock-tomb","iron-defense","bulk-up","close-combat","payback","fling","focus-blast","stone-edge","wide-guard","round","scald","bulldoze","frost-breath","work-up","confide","power-up-punch","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 740
+p.weight = 1800
+p.height = 17
+p.stats = ["97","132","77","62","67","43"]
+p.abilities = ["hyper-cutter","iron-fist","anger-point"]
+p. moves = ["ice-punch","leer","ice-beam","blizzard","bubble-beam","earthquake","toxic","double-team","bubble","dizzy-punch","rest","rock-slide","substitute","thief","reversal","protect","swagger","attract","sleep-talk","return","frustration","dynamic-punch","pursuit","hidden-power","rain-dance","sunny-day","rock-smash","hail","facade","brick-break","rock-tomb","iron-defense","bulk-up","close-combat","payback","fling","focus-blast","giga-impact","avalanche","stone-edge","round","scald","bulldoze","frost-breath","work-up","confide","power-up-punch","ice-hammer","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 741
+p.weight = 34
+p.height = 6
+p.stats = ["75","70","70","98","70","93"]
+p.abilities = ["dancer"]
+p. moves = ["pound","double-slap","swords-dance","fly","growl","peck","toxic","agility","double-team","mirror-move","rest","substitute","protect","sandstorm","swagger","steel-wing","attract","sleep-talk","return","frustration","safeguard","baton-pass","hidden-power","facade","taunt","helping-hand","feather-dance","teeter-dance","air-cutter","aerial-ace","calm-mind","roost","pluck","tailwind","u-turn","embargo","air-slash","captivate","round","quash","acrobatics","work-up","hurricane","confide","revelation-dance"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 742
+p.weight = 2
+p.height = 1
+p.stats = ["40","45","40","55","40","84"]
+p.abilities = ["honey-gather","shield-dust","sweet-veil"]
+p. moves = ["absorb","stun-spore","toxic","psychic","double-team","light-screen","reflect","dream-eater","leech-life","rest","substitute","thief","protect","swagger","attract","sleep-talk","return","frustration","safeguard","baton-pass","sweet-scent","hidden-power","sunny-day","psych-up","facade","skill-swap","aromatherapy","silver-wind","aerial-ace","calm-mind","roost","u-turn","bug-buzz","energy-ball","quiver-dance","round","acrobatics","bestow","struggle-bug","sticky-web","draining-kiss","fairy-wind","moonblast","confide","powder","dazzling-gleam","infestation","speed-swap"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 743
+p.weight = 5
+p.height = 2
+p.stats = ["60","55","60","95","70","124"]
+p.abilities = ["honey-gather","shield-dust","sweet-veil"]
+p. moves = ["absorb","solar-beam","stun-spore","toxic","psychic","double-team","light-screen","reflect","dream-eater","leech-life","rest","substitute","thief","protect","swagger","attract","sleep-talk","return","frustration","safeguard","sweet-scent","hidden-power","sunny-day","psych-up","facade","nature-power","aromatherapy","silver-wind","aerial-ace","calm-mind","roost","u-turn","bug-buzz","energy-ball","quiver-dance","round","acrobatics","struggle-bug","draining-kiss","fairy-wind","confide","dazzling-gleam","infestation","pollen-puff"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 744
+p.weight = 92
+p.height = 5
+p.stats = ["45","65","40","30","40","60"]
+p.abilities = ["keen-eye","vital-spirit","steadfast"]
+p. moves = ["sand-attack","tackle","thrash","leer","bite","roar","rock-throw","toxic","double-team","rest","rock-slide","substitute","protect","scary-face","swagger","attract","sleep-talk","return","frustration","hidden-power","crunch","facade","taunt","crush-claw","odor-sleuth","rock-tomb","howl","sucker-punch","rock-polish","thunder-fang","fire-fang","rock-climb","stone-edge","stealth-rock","round","echoed-voice","snarl","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 745
+p.weight = 250
+p.height = 8
+p.stats = ["75","115","65","55","65","112"]
+p.abilities = ["keen-eye","sand-rush","steadfast"]
+p. moves = ["swords-dance","sand-attack","tackle","leer","bite","roar","rock-throw","toxic","quick-attack","double-team","rest","rock-slide","substitute","protect","scary-face","swagger","attract","sleep-talk","return","frustration","hidden-power","crunch","facade","taunt","brick-break","odor-sleuth","rock-tomb","howl","bulk-up","rock-polish","rock-climb","stone-edge","stealth-rock","round","echoed-voice","quick-guard","snarl","confide","accelerock"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 746
+p.weight = 3
+p.height = 2
+p.stats = ["45","20","20","25","25","40"]
+p.abilities = ["schooling"]
+p. moves = ["take-down","double-edge","growl","mist","water-gun","hydro-pump","surf","ice-beam","earthquake","toxic","double-team","waterfall","rest","substitute","protect","feint-attack","swagger","attract","sleep-talk","return","frustration","hidden-power","rain-dance","whirlpool","beat-up","hail","facade","helping-hand","endeavor","dive","muddy-water","water-sport","water-pulse","brine","u-turn","aqua-ring","aqua-tail","soak","round","scald","bulldoze","confide","tearful-look"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 747
+p.weight = 80
+p.height = 4
+p.stats = ["50","53","62","43","52","45"]
+p.abilities = ["merciless","limber","regenerator"]
+p. moves = ["poison-sting","pin-missile","bite","surf","ice-beam","blizzard","peck","toxic","double-team","recover","haze","spike-cannon","rest","substitute","protect","sludge-bomb","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","stockpile","spit-up","swallow","hail","facade","payback","toxic-spikes","poison-jab","wide-guard","venoshock","sludge-wave","round","scald","frost-breath","confide","venom-drench","infestation","liquidation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 748
+p.weight = 145
+p.height = 7
+p.stats = ["50","63","152","53","142","35"]
+p.abilities = ["merciless","limber","regenerator"]
+p. moves = ["poison-sting","pin-missile","bite","surf","ice-beam","blizzard","peck","toxic","double-team","recover","light-screen","spike-cannon","rest","substitute","protect","sludge-bomb","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","hail","facade","payback","toxic-spikes","poison-jab","wide-guard","venoshock","smack-down","sludge-wave","round","scald","frost-breath","confide","venom-drench","infestation","baneful-bunker","liquidation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 749
+p.weight = 1100
+p.height = 10
+p.stats = ["70","100","70","45","55","45"]
+p.abilities = ["own-tempo","stamina","inner-focus"]
+p. moves = ["stomp","double-kick","mega-kick","body-slam","double-edge","roar","counter","earthquake","toxic","double-team","bide","rest","rock-slide","substitute","protect","mud-slap","sandstorm","swagger","attract","sleep-talk","return","frustration","magnitude","hidden-power","facade","superpower","mud-sport","rock-tomb","iron-defense","close-combat","payback","mud-bomb","heavy-slam","low-sweep","round","bulldoze","rototiller","confide","high-horsepower"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 750
+p.weight = 9200
+p.height = 25
+p.stats = ["100","125","100","55","85","35"]
+p.abilities = ["own-tempo","stamina","inner-focus"]
+p. moves = ["stomp","double-kick","mega-kick","roar","counter","earthquake","toxic","double-team","bide","rest","rock-slide","substitute","protect","mud-slap","sandstorm","swagger","attract","sleep-talk","return","frustration","hidden-power","facade","superpower","mud-sport","rock-tomb","iron-defense","payback","focus-blast","giga-impact","heavy-slam","low-sweep","round","bulldoze","rototiller","confide","high-horsepower"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 751
+p.weight = 40
+p.height = 3
+p.stats = ["38","40","52","40","72","27"]
+p.abilities = ["water-bubble","water-absorb"]
+p. moves = ["bite","surf","ice-beam","blizzard","bubble-beam","aurora-beam","toxic","double-team","waterfall","leech-life","bubble","rest","substitute","spider-web","protect","swagger","attract","sleep-talk","return","frustration","hidden-power","rain-dance","crunch","mirror-coat","stockpile","spit-up","facade","water-sport","aqua-ring","poison-jab","x-scissor","bug-bite","power-split","entrainment","round","scald","frost-breath","sticky-web","confide","infestation","lunge","liquidation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 752
+p.weight = 820
+p.height = 18
+p.stats = ["68","70","92","50","132","42"]
+p.abilities = ["water-bubble","water-absorb"]
+p. moves = ["bite","surf","ice-beam","blizzard","bubble-beam","toxic","double-team","reflect","waterfall","leech-life","bubble","rest","substitute","spider-web","protect","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","crunch","mirror-coat","facade","aqua-ring","poison-jab","x-scissor","bug-bite","wide-guard","soak","entrainment","round","scald","frost-breath","confide","infestation","lunge","liquidation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 753
+p.weight = 15
+p.height = 3
+p.stats = ["40","55","35","50","35","35"]
+p.abilities = ["leaf-guard","contrary"]
+p. moves = ["swords-dance","growth","razor-leaf","solar-beam","toxic","double-team","leech-life","rest","slash","substitute","protect","giga-drain","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","safeguard","sweet-scent","synthesis","hidden-power","sunny-day","facade","nature-power","ingrain","weather-ball","aromatherapy","leaf-blade","payback","fling","poison-jab","x-scissor","energy-ball","defog","leaf-storm","grass-knot","round","confide","leafage"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 754
+p.weight = 185
+p.height = 9
+p.stats = ["70","105","90","80","90","45"]
+p.abilities = ["leaf-guard","contrary"]
+p. moves = ["swords-dance","hyper-beam","growth","razor-leaf","solar-beam","toxic","double-team","leech-life","rest","slash","substitute","protect","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","safeguard","sweet-scent","synthesis","hidden-power","sunny-day","facade","nature-power","ingrain","brick-break","aerial-ace","leaf-blade","payback","fling","poison-jab","night-slash","x-scissor","energy-ball","giga-impact","grass-knot","low-sweep","round","petal-blizzard","confide","solar-blade","leafage"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 755
+p.weight = 15
+p.height = 2
+p.stats = ["40","35","55","65","75","15"]
+p.abilities = ["illuminate","effect-spore","rain-dish"]
+p. moves = ["absorb","mega-drain","leech-seed","growth","solar-beam","poison-powder","stun-spore","sleep-powder","thunder-wave","toxic","double-team","confuse-ray","light-screen","amnesia","dream-eater","spore","flash","rest","substitute","protect","sludge-bomb","giga-drain","swagger","attract","sleep-talk","return","frustration","safeguard","moonlight","hidden-power","sunny-day","nature-power","ingrain","astonish","energy-ball","grass-knot","round","moonblast","confide","dazzling-gleam","strength-sap","spotlight"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 756
+p.weight = 115
+p.height = 10
+p.stats = ["60","45","80","90","100","30"]
+p.abilities = ["illuminate","effect-spore","rain-dish"]
+p. moves = ["absorb","mega-drain","solar-beam","sleep-powder","thunder-wave","toxic","double-team","confuse-ray","light-screen","dream-eater","spore","flash","rest","substitute","protect","sludge-bomb","giga-drain","swagger","attract","sleep-talk","return","frustration","safeguard","moonlight","hidden-power","sunny-day","nature-power","ingrain","astonish","energy-ball","giga-impact","grass-knot","charge-beam","round","moonblast","confide","dazzling-gleam","strength-sap","spotlight"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 757
+p.weight = 48
+p.height = 6
+p.stats = ["48","44","40","71","40","77"]
+p.abilities = ["corrosion","oblivious"]
+p. moves = ["double-slap","scratch","sand-attack","ember","flamethrower","dragon-rage","toxic","double-team","smog","fire-blast","poison-gas","leech-life","rest","substitute","thief","protect","sludge-bomb","swagger","attract","sleep-talk","return","frustration","sweet-scent","hidden-power","fake-out","torment","will-o-wisp","facade","taunt","knock-off","snatch","overheat","dragon-claw","payback","fling","poison-jab","dragon-pulse","nasty-plot","shadow-claw","venoshock","flame-burst","sludge-wave","flame-charge","round","belch","confide","venom-drench"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 758
+p.weight = 222
+p.height = 12
+p.stats = ["68","64","60","111","60","117"]
+p.abilities = ["corrosion","oblivious"]
+p. moves = ["pound","double-slap","disable","ember","flamethrower","dragon-rage","toxic","double-team","smog","fire-blast","poison-gas","leech-life","rest","substitute","thief","protect","sludge-bomb","swagger","attract","sleep-talk","return","frustration","encore","sweet-scent","hidden-power","torment","will-o-wisp","facade","taunt","overheat","dragon-claw","payback","fling","poison-jab","dragon-pulse","nasty-plot","shadow-claw","captivate","venoshock","flame-burst","sludge-wave","flame-charge","round","acrobatics","dragon-tail","confide","venom-drench"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 759
+p.weight = 68
+p.height = 5
+p.stats = ["70","75","50","45","50","50"]
+p.abilities = ["fluffy","klutz","cute-charm"]
+p. moves = ["ice-punch","thunder-punch","swords-dance","mega-kick","tackle","take-down","thrash","double-edge","leer","roar","earthquake","toxic","double-team","bide","rest","rock-slide","substitute","flail","protect","endure","swagger","attract","sleep-talk","return","frustration","pain-split","hidden-power","facade","taunt","superpower","brick-break","rock-tomb","aerial-ace","bulk-up","hammer-arm","payback","fling","force-palm","focus-blast","wide-guard","low-sweep","round","bulldoze","work-up","confide","baby-doll-eyes","brutal-swing","stomping-tantrum"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 760
+p.weight = 1350
+p.height = 21
+p.stats = ["120","125","80","55","60","60"]
+p.abilities = ["fluffy","klutz","unnerve"]
+p. moves = ["swords-dance","bind","tackle","take-down","thrash","double-edge","leer","roar","hyper-beam","earthquake","toxic","double-team","bide","rest","rock-slide","substitute","flail","protect","swagger","attract","sleep-talk","return","frustration","pain-split","hidden-power","facade","taunt","superpower","brick-break","rock-tomb","aerial-ace","dragon-claw","bulk-up","hammer-arm","payback","fling","focus-blast","giga-impact","shadow-claw","low-sweep","round","bulldoze","work-up","confide","baby-doll-eyes","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 761
+p.weight = 32
+p.height = 3
+p.stats = ["42","30","38","30","38","32"]
+p.abilities = ["leaf-guard","oblivious","sweet-veil"]
+p. moves = ["razor-leaf","solar-beam","toxic","double-team","light-screen","reflect","splash","rest","substitute","flail","protect","charm","swagger","attract","sleep-talk","return","frustration","safeguard","rapid-spin","sweet-scent","synthesis","hidden-power","sunny-day","facade","nature-power","teeter-dance","grass-whistle","magical-leaf","feint","acupressure","energy-ball","grass-knot","round","play-rough","play-nice","confide","aromatic-mist","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 762
+p.weight = 82
+p.height = 7
+p.stats = ["52","40","48","40","48","62"]
+p.abilities = ["leaf-guard","oblivious","sweet-veil"]
+p. moves = ["double-slap","stomp","razor-leaf","solar-beam","toxic","double-team","light-screen","reflect","splash","rest","substitute","protect","swagger","attract","sleep-talk","return","frustration","safeguard","rapid-spin","sweet-scent","hidden-power","sunny-day","facade","nature-power","teeter-dance","aromatherapy","magical-leaf","payback","fling","energy-ball","leaf-storm","captivate","grass-knot","low-sweep","round","play-nice","confide","aromatic-mist","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 763
+p.weight = 214
+p.height = 12
+p.stats = ["72","120","98","50","98","72"]
+p.abilities = ["leaf-guard","queenly-majesty","sweet-veil"]
+p. moves = ["double-slap","stomp","razor-leaf","solar-beam","toxic","double-team","light-screen","reflect","high-jump-kick","splash","rest","substitute","protect","swagger","attract","sleep-talk","return","frustration","safeguard","rapid-spin","sweet-scent","hidden-power","sunny-day","facade","nature-power","teeter-dance","aromatherapy","magical-leaf","u-turn","payback","fling","punishment","energy-ball","giga-impact","leaf-storm","power-whip","captivate","grass-knot","low-sweep","round","acrobatics","confide","aromatic-mist","dazzling-gleam","trop-kick"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 764
+p.weight = 3
+p.height = 1
+p.stats = ["51","52","90","82","110","100"]
+p.abilities = ["flower-veil","triage","natural-cure"]
+p. moves = ["vine-whip","wrap","hyper-beam","leech-seed","growth","solar-beam","petal-dance","toxic","double-team","light-screen","amnesia","rest","substitute","thief","protect","sweet-kiss","endure","swagger","attract","sleep-talk","return","frustration","safeguard","sweet-scent","synthesis","hidden-power","sunny-day","psych-up","facade","nature-power","taunt","helping-hand","aromatherapy","magical-leaf","calm-mind","natural-gift","u-turn","fling","lucky-chant","energy-ball","trick-room","grass-knot","after-you","round","echoed-voice","acrobatics","petal-blizzard","draining-kiss","flower-shield","grassy-terrain","play-rough","confide","dazzling-gleam","floral-healing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 765
+p.weight = 760
+p.height = 15
+p.stats = ["90","60","80","90","110","60"]
+p.abilities = ["inner-focus","telepathy","symbiosis"]
+p. moves = ["thunderbolt","thunder","earthquake","toxic","confusion","psychic","double-team","light-screen","reflect","dream-eater","rest","rock-slide","substitute","protect","feint-attack","swagger","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","sunny-day","psych-up","shadow-ball","future-sight","facade","nature-power","taunt","brick-break","extrasensory","calm-mind","payback","embargo","fling","focus-blast","energy-ball","giga-impact","nasty-plot","zen-headbutt","trick-room","charge-beam","wonder-room","psyshock","foul-play","after-you","round","stored-power","quash","bulldoze","work-up","confide","psychic-terrain","instruct","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 766
+p.weight = 828
+p.height = 20
+p.stats = ["100","120","90","40","60","80"]
+p.abilities = ["receiver","defiant"]
+p. moves = ["tackle","take-down","thrash","double-edge","leer","hyper-beam","seismic-toss","earthquake","toxic","quick-attack","double-team","focus-energy","rest","rock-slide","substitute","thief","reversal","protect","scary-face","swagger","attract","sleep-talk","return","frustration","vital-throw","hidden-power","rain-dance","sunny-day","shadow-ball","rock-smash","beat-up","facade","taunt","brick-break","rock-tomb","aerial-ace","bulk-up","gyro-ball","feint","u-turn","close-combat","payback","fling","focus-blast","energy-ball","giga-impact","iron-head","grass-knot","smack-down","low-sweep","round","quick-guard","acrobatics","bestow","bulldoze","work-up","confide","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 767
+p.weight = 120
+p.height = 5
+p.stats = ["25","35","40","20","30","80"]
+p.abilities = ["wimp-out"]
+p. moves = ["sand-attack","surf","toxic","double-team","harden","waterfall","leech-life","rest","substitute","protect","spikes","swagger","attract","sleep-talk","return","frustration","metal-claw","hidden-power","rain-dance","hail","facade","taunt","aqua-jet","wide-guard","round","scald","struggle-bug","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 768
+p.weight = 1080
+p.height = 20
+p.stats = ["75","125","140","60","90","40"]
+p.abilities = ["emergency-exit"]
+p. moves = ["swords-dance","sand-attack","pin-missile","surf","ice-beam","blizzard","toxic","double-team","waterfall","leech-life","rest","rock-slide","slash","substitute","spite","protect","sludge-bomb","false-swipe","swagger","fury-cutter","attract","sleep-talk","return","frustration","hidden-power","rain-dance","psych-up","rock-smash","hail","facade","taunt","brick-break","rock-tomb","aerial-ace","iron-defense","bulk-up","payback","fling","sucker-punch","poison-jab","dark-pulse","x-scissor","focus-blast","giga-impact","shadow-claw","bug-bite","venoshock","sludge-wave","round","scald","struggle-bug","frost-breath","razor-shell","snarl","confide","first-impression","liquidation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 769
+p.weight = 700
+p.height = 5
+p.stats = ["55","55","80","70","45","15"]
+p.abilities = ["water-compaction","sand-veil"]
+p. moves = ["sand-attack","absorb","mega-drain","earthquake","toxic","psychic","hypnosis","double-team","harden","amnesia","rest","rock-slide","substitute","curse","protect","destiny-bond","sandstorm","giga-drain","swagger","attract","sleep-talk","return","frustration","hidden-power","ancient-power","shadow-ball","stockpile","spit-up","swallow","facade","astonish","rock-tomb","sand-tomb","iron-defense","rock-polish","energy-ball","earth-power","stone-edge","round","bulldoze","confide","infestation","shore-up"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 770
+p.weight = 2500
+p.height = 13
+p.stats = ["85","75","110","100","75","35"]
+p.abilities = ["water-compaction","sand-veil"]
+p. moves = ["sand-attack","absorb","mega-drain","earthquake","toxic","psychic","hypnosis","double-team","harden","rest","rock-slide","substitute","protect","sludge-bomb","sandstorm","giga-drain","swagger","attract","sleep-talk","return","frustration","hidden-power","shadow-ball","facade","astonish","rock-tomb","sand-tomb","iron-defense","embargo","fling","rock-polish","energy-ball","earth-power","giga-impact","stone-edge","round","quash","bulldoze","confide","infestation","shore-up"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 771
+p.weight = 12
+p.height = 3
+p.stats = ["55","60","130","30","130","5"]
+p.abilities = ["innards-out","unaware"]
+p. moves = ["counter","toxic","double-team","recover","harden","light-screen","reflect","bide","rest","substitute","curse","spite","protect","endure","swagger","attract","sleep-talk","safeguard","pain-split","baton-pass","rain-dance","psych-up","hail","memento","taunt","helping-hand","mud-sport","tickle","water-sport","gastro-acid","soak","quash","bestow","confide","venom-drench","purify"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 772
+p.weight = 1205
+p.height = 19
+p.stats = ["95","95","95","95","95","59"]
+p.abilities = ["battle-armor"]
+p. moves = ["razor-wind","swords-dance","tackle","take-down","double-edge","roar","thunder-wave","toxic","rage","double-team","rest","rock-slide","tri-attack","substitute","protect","scary-face","sandstorm","swagger","sleep-talk","return","frustration","pursuit","hidden-power","rain-dance","sunny-day","hail","facade","imprison","crush-claw","metal-sound","aerial-ace","dragon-claw","u-turn","payback","heal-block","punishment","air-slash","x-scissor","giga-impact","shadow-claw","iron-head","double-hit","flame-charge","round","work-up","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 773
+p.weight = 1005
+p.height = 23
+p.stats = ["95","95","95","95","95","95"]
+p.abilities = ["rks-system"]
+p. moves = ["razor-wind","swords-dance","tackle","take-down","double-edge","bite","roar","flamethrower","surf","ice-beam","hyper-beam","thunderbolt","thunder-wave","toxic","rage","double-team","explosion","rest","rock-slide","tri-attack","substitute","protect","scary-face","sandstorm","swagger","steel-wing","sleep-talk","return","frustration","pursuit","hidden-power","rain-dance","sunny-day","crunch","shadow-ball","hail","facade","imprison","poison-fang","crush-claw","metal-sound","aerial-ace","dragon-claw","u-turn","payback","heal-block","punishment","air-slash","x-scissor","giga-impact","shadow-claw","thunder-fang","ice-fang","fire-fang","flash-cannon","draco-meteor","iron-head","double-hit","flame-charge","round","water-pledge","fire-pledge","grass-pledge","work-up","snarl","parting-shot","confide","multi-attack"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 774
+p.weight = 400
+p.height = 3
+p.stats = ["60","60","100","60","100","60"]
+p.abilities = ["shields-down"]
+p. moves = ["tackle","take-down","double-edge","hyper-beam","solar-beam","earthquake","toxic","psychic","double-team","confuse-ray","defense-curl","light-screen","reflect","self-destruct","swift","explosion","rest","rock-slide","substitute","protect","sandstorm","rollout","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","psych-up","ancient-power","facade","rock-tomb","cosmic-power","calm-mind","gyro-ball","u-turn","rock-polish","power-gem","giga-impact","stone-edge","stealth-rock","charge-beam","autotomize","round","shell-smash","acrobatics","bulldoze","confide","dazzling-gleam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 775
+p.weight = 199
+p.height = 4
+p.stats = ["65","115","65","75","95","65"]
+p.abilities = ["comatose"]
+p. moves = ["swords-dance","slam","thrash","sing","earthquake","toxic","double-team","defense-curl","rock-slide","substitute","flail","protect","charm","rollout","swagger","attract","sleep-talk","return","frustration","rapid-spin","hidden-power","sunny-day","psych-up","stockpile","spit-up","swallow","facade","wish","brick-break","yawn","bulk-up","calm-mind","u-turn","payback","sucker-punch","shadow-claw","wood-hammer","low-sweep","round","quash","acrobatics","bulldoze","work-up","play-rough","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 776
+p.weight = 2120
+p.height = 20
+p.stats = ["60","78","135","91","85","36"]
+p.abilities = ["shell-armor"]
+p. moves = ["tackle","body-slam","roar","ember","flamethrower","hyper-beam","solar-beam","fire-spin","earthquake","toxic","double-team","smog","fire-blast","explosion","rest","substitute","flail","protect","endure","swagger","attract","sleep-talk","return","frustration","hidden-power","sunny-day","will-o-wisp","facade","taunt","revenge","overheat","rock-tomb","iron-defense","dragon-claw","bulk-up","payback","fling","dragon-pulse","focus-blast","giga-impact","flash-cannon","draco-meteor","stone-edge","charge-beam","head-smash","wide-guard","venoshock","smack-down","flame-charge","round","shell-smash","incinerate","bulldoze","dragon-tail","work-up","confide","brutal-swing","shell-trap"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 777
+p.weight = 33
+p.height = 3
+p.stats = ["65","98","63","40","73","96"]
+p.abilities = ["iron-barbs","lightning-rod","sturdy"]
+p. moves = ["tackle","twineedle","pin-missile","thunder-shock","thunderbolt","thunder-wave","thunder","toxic","double-team","defense-curl","reflect","rest","substitute","thief","flail","reversal","protect","rollout","swagger","spark","attract","sleep-talk","return","present","frustration","encore","hidden-power","fake-out","facade","charge","wish","tickle","gyro-ball","u-turn","payback","fling","magnet-rise","poison-jab","giga-impact","discharge","grass-knot","charge-beam","round","volt-switch","work-up","wild-charge","fell-stinger","disarming-voice","confide","spiky-shield","electric-terrain","nuzzle","zing-zap"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 778
+p.weight = 7
+p.height = 2
+p.stats = ["55","90","80","50","105","96"]
+p.abilities = ["disguise"]
+p. moves = ["scratch","swords-dance","hyper-beam","thunderbolt","thunder-wave","thunder","toxic","psychic","mimic","double-team","light-screen","dream-eater","leech-life","splash","rest","slash","substitute","thief","nightmare","curse","protect","feint-attack","destiny-bond","charm","swagger","attract","sleep-talk","return","frustration","safeguard","pain-split","hidden-power","psych-up","shadow-ball","will-o-wisp","facade","taunt","grudge","astonish","bulk-up","payback","embargo","fling","copycat","dark-pulse","x-scissor","shadow-claw","shadow-sneak","trick-room","charge-beam","wood-hammer","hone-claws","round","work-up","play-rough","confide","dazzling-gleam","baby-doll-eyes","infestation"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 779
+p.weight = 190
+p.height = 9
+p.stats = ["68","105","70","70","70","92"]
+p.abilities = ["dazzling","strong-jaw","wonder-skin"]
+p. moves = ["swords-dance","bite","disable","water-gun","surf","ice-beam","blizzard","toxic","confusion","psychic","rage","screech","double-team","light-screen","reflect","waterfall","dream-eater","psywave","rest","substitute","protect","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","crunch","torment","facade","taunt","poison-fang","astonish","aerial-ace","bulk-up","calm-mind","water-pulse","payback","embargo","fling","aqua-tail","giga-impact","ice-fang","trick-room","aqua-jet","venoshock","synchronoise","round","scald","frost-breath","confide","psychic-fangs"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 780
+p.weight = 1850
+p.height = 30
+p.stats = ["78","60","85","135","91","36"]
+p.abilities = ["berserk","sap-sipper","cloud-nine"]
+p. moves = ["razor-wind","fly","roar","flamethrower","mist","surf","ice-beam","blizzard","hyper-beam","solar-beam","dragon-rage","thunderbolt","thunder-wave","thunder","earthquake","toxic","double-team","light-screen","fire-blast","glare","rest","rock-slide","substitute","protect","outrage","steel-wing","attract","sleep-talk","return","frustration","safeguard","dragon-breath","hidden-power","twister","rain-dance","sunny-day","psych-up","shadow-ball","facade","nature-power","hyper-voice","extrasensory","dragon-claw","calm-mind","roost","natural-gift","fling","dragon-pulse","dragon-rush","focus-blast","energy-ball","giga-impact","shadow-claw","draco-meteor","grass-knot","round","echoed-voice","bulldoze","dragon-tail","work-up","hurricane","snarl","play-rough","play-nice","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 781
+p.weight = 2100
+p.height = 39
+p.stats = ["70","131","100","86","90","40"]
+p.abilities = ["steelworker"]
+p. moves = ["swords-dance","slam","wrap","surf","hyper-beam","absorb","mega-drain","growth","solar-beam","earthquake","toxic","double-team","rest","rock-slide","substitute","thief","protect","giga-drain","swagger","attract","sleep-talk","return","frustration","rapid-spin","hidden-power","rain-dance","sunny-day","shadow-ball","whirlpool","facade","brick-break","astonish","metal-sound","aerial-ace","gyro-ball","payback","embargo","energy-ball","switcheroo","giga-impact","shadow-claw","flash-cannon","power-whip","grass-knot","sludge-wave","heavy-slam","round","bulldoze","phantom-force","confide","anchor-shot","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 782
+p.weight = 297
+p.height = 6
+p.stats = ["45","55","65","45","45","45"]
+p.abilities = ["bulletproof","soundproof","overcoat"]
+p. moves = ["swords-dance","headbutt","tackle","leer","roar","counter","earthquake","toxic","screech","double-team","bide","rest","rock-slide","substitute","reversal","protect","scary-face","outrage","sandstorm","false-swipe","swagger","attract","sleep-talk","return","frustration","safeguard","dragon-breath","hidden-power","facade","taunt","brick-break","rock-tomb","aerial-ace","iron-defense","dragon-claw","bulk-up","dragon-dance","payback","x-scissor","focus-blast","shadow-claw","draco-meteor","round","echoed-voice","bulldoze","dragon-tail","work-up","noble-roar","confide"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 783
+p.weight = 470
+p.height = 12
+p.stats = ["55","75","90","65","70","65"]
+p.abilities = ["bulletproof","soundproof","overcoat"]
+p. moves = ["swords-dance","headbutt","tackle","leer","roar","earthquake","toxic","screech","double-team","bide","rest","rock-slide","substitute","protect","scary-face","outrage","sandstorm","false-swipe","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","facade","taunt","brick-break","rock-tomb","sky-uppercut","aerial-ace","iron-defense","dragon-claw","bulk-up","dragon-dance","close-combat","payback","fling","x-scissor","focus-blast","shadow-claw","draco-meteor","autotomize","round","echoed-voice","bulldoze","dragon-tail","work-up","noble-roar","confide","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 784
+p.weight = 782
+p.height = 16
+p.stats = ["75","110","125","100","105","85"]
+p.abilities = ["bulletproof","soundproof","overcoat"]
+p. moves = ["swords-dance","headbutt","tackle","leer","roar","flamethrower","hyper-beam","earthquake","toxic","screech","double-team","bide","rest","rock-slide","substitute","protect","scary-face","belly-drum","outrage","sandstorm","false-swipe","swagger","attract","sleep-talk","return","frustration","safeguard","hidden-power","facade","taunt","brick-break","rock-tomb","sky-uppercut","aerial-ace","iron-defense","dragon-claw","bulk-up","dragon-dance","close-combat","payback","fling","rock-polish","poison-jab","x-scissor","focus-blast","giga-impact","shadow-claw","flash-cannon","draco-meteor","autotomize","round","echoed-voice","bulldoze","dragon-tail","work-up","noble-roar","confide","clanging-scales","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 785
+p.weight = 205
+p.height = 18
+p.stats = ["70","115","85","95","75","130"]
+p.abilities = ["electric-surge","telepathy"]
+p. moves = ["fly","roar","hyper-beam","thunder-shock","thunderbolt","thunder-wave","thunder","toxic","agility","quick-attack","screech","double-team","withdraw","light-screen","reflect","mirror-move","substitute","thief","protect","false-swipe","swagger","spark","steel-wing","mean-look","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","psych-up","torment","facade","nature-power","charge","taunt","aerial-ace","calm-mind","shock-wave","roost","u-turn","power-swap","brave-bird","giga-impact","discharge","grass-knot","electro-ball","round","echoed-voice","sky-drop","acrobatics","volt-switch","work-up","wild-charge","confide","electric-terrain","dazzling-gleam","natures-madness"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 786
+p.weight = 186
+p.height = 12
+p.stats = ["70","85","75","130","115","95"]
+p.abilities = ["psychic-surge","telepathy"]
+p. moves = ["psybeam","hyper-beam","thunderbolt","thunder","toxic","confusion","psychic","double-team","withdraw","light-screen","reflect","psywave","substitute","thief","protect","swagger","mean-look","sleep-talk","return","frustration","safeguard","sweet-scent","hidden-power","sunny-day","psych-up","shadow-ball","torment","flatter","facade","nature-power","taunt","skill-swap","astonish","aromatherapy","tickle","extrasensory","calm-mind","fling","focus-blast","energy-ball","giga-impact","grass-knot","charge-beam","psyshock","round","echoed-voice","draining-kiss","moonblast","confide","aromatic-mist","dazzling-gleam","psychic-terrain","natures-madness"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 787
+p.weight = 455
+p.height = 19
+p.stats = ["70","130","115","85","95","75"]
+p.abilities = ["grassy-surge","telepathy"]
+p. moves = ["swords-dance","whirlwind","horn-attack","roar","disable","hyper-beam","leech-seed","solar-beam","toxic","withdraw","light-screen","reflect","skull-bash","rock-slide","substitute","protect","scary-face","giga-drain","false-swipe","swagger","mean-look","sleep-talk","return","frustration","safeguard","megahorn","hidden-power","sunny-day","psych-up","torment","facade","nature-power","taunt","superpower","brick-break","rock-tomb","bulk-up","calm-mind","payback","fling","focus-blast","energy-ball","giga-impact","zen-headbutt","stone-edge","grass-knot","wood-hammer","round","echoed-voice","work-up","horn-leech","snarl","rototiller","grassy-terrain","confide","dazzling-gleam","leafage","smart-strike","brutal-swing","natures-madness"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 788
+p.weight = 212
+p.height = 13
+p.stats = ["70","75","115","95","130","85"]
+p.abilities = ["misty-surge","telepathy"]
+p. moves = ["mist","water-gun","hydro-pump","surf","ice-beam","blizzard","hyper-beam","toxic","double-team","withdraw","light-screen","haze","reflect","waterfall","substitute","protect","swagger","mean-look","sleep-talk","return","frustration","safeguard","hidden-power","rain-dance","psych-up","shadow-ball","whirlpool","torment","facade","nature-power","taunt","refresh","muddy-water","calm-mind","water-pulse","brine","fling","aqua-ring","giga-impact","defog","grass-knot","soak","round","echoed-voice","scald","heal-pulse","misty-terrain","moonblast","confide","dazzling-gleam","smart-strike","natures-madness"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 789
+p.weight = 1
+p.height = 2
+p.stats = ["43","29","31","29","31","37"]
+p.abilities = ["unaware"]
+p. moves = ["teleport","splash"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 790
+p.weight = 9999
+p.height = 1
+p.stats = ["43","29","131","29","131","37"]
+p.abilities = ["sturdy"]
+p. moves = ["teleport","cosmic-power"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 791
+p.weight = 2300
+p.height = 34
+p.stats = ["137","137","107","113","89","97"]
+p.abilities = ["full-metal-body"]
+p. moves = ["roar","flamethrower","hyper-beam","solar-beam","thunderbolt","thunder-wave","thunder","earthquake","toxic","psychic","teleport","double-team","light-screen","reflect","fire-blast","rest","rock-slide","substitute","protect","swagger","sleep-talk","return","frustration","safeguard","metal-claw","morning-sun","hidden-power","sunny-day","crunch","psych-up","facade","rock-tomb","metal-sound","cosmic-power","calm-mind","wake-up-slap","gyro-ball","metal-burst","flare-blitz","focus-blast","giga-impact","zen-headbutt","flash-cannon","trick-room","iron-head","stone-edge","wide-guard","psyshock","flame-charge","round","bulldoze","work-up","wild-charge","snarl","noble-roar","confide","sunsteel-strike"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 792
+p.weight = 1200
+p.height = 40
+p.stats = ["137","113","89","137","107","97"]
+p.abilities = ["shadow-shield"]
+p. moves = ["fly","roar","ice-beam","blizzard","hyper-beam","solar-beam","thunderbolt","thunder-wave","thunder","toxic","confusion","psychic","hypnosis","teleport","night-shade","double-team","confuse-ray","light-screen","reflect","dream-eater","rest","substitute","protect","swagger","sleep-talk","return","frustration","safeguard","moonlight","hidden-power","sunny-day","psych-up","shadow-ball","will-o-wisp","facade","magic-coat","cosmic-power","aerial-ace","calm-mind","roost","air-slash","focus-blast","giga-impact","shadow-claw","trick-room","charge-beam","wide-guard","psyshock","round","sky-drop","acrobatics","work-up","night-daze","phantom-force","moonblast","confide","dazzling-gleam","moongeist-beam"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 793
+p.weight = 555
+p.height = 12
+p.stats = ["109","53","47","127","131","103"]
+p.abilities = ["beast-boost"]
+p. moves = ["pound","headbutt","acid","thunderbolt","thunder-wave","thunder","toxic","psychic","double-team","light-screen","reflect","constrict","psywave","rest","substitute","protect","sludge-bomb","sandstorm","swagger","sleep-talk","return","frustration","safeguard","hidden-power","mirror-coat","facade","tickle","toxic-spikes","poison-jab","power-gem","trick-room","stealth-rock","grass-knot","charge-beam","head-smash","guard-split","power-split","wonder-room","psyshock","venoshock","sludge-wave","acid-spray","round","echoed-voice","clear-smog","confide","venom-drench","dazzling-gleam","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 794
+p.weight = 3336
+p.height = 24
+p.stats = ["107","139","139","53","53","79"]
+p.abilities = ["beast-boost"]
+p. moves = ["comet-punch","mega-punch","ice-punch","thunder-punch","counter","earthquake","toxic","double-team","harden","focus-energy","leech-life","rest","rock-slide","substitute","reversal","protect","endure","false-swipe","swagger","sleep-talk","return","frustration","dynamic-punch","vital-throw","hidden-power","facade","focus-punch","taunt","superpower","brick-break","rock-tomb","bulk-up","roost","hammer-arm","gyro-ball","payback","fling","poison-jab","giga-impact","stone-edge","smack-down","low-sweep","round","bulldoze","work-up","fell-stinger","confide","power-up-punch","lunge"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 795
+p.weight = 250
+p.height = 18
+p.stats = ["71","137","37","137","37","151"]
+p.abilities = ["beast-boost"]
+p. moves = ["stomp","double-kick","jump-kick","leer","ice-beam","blizzard","hyper-beam","low-kick","toxic","agility","double-team","swift","high-jump-kick","rest","substitute","triple-kick","protect","false-swipe","swagger","sleep-talk","return","frustration","rapid-spin","hidden-power","torment","facade","taunt","brick-break","silver-wind","bounce","roost","feint","u-turn","fling","me-first","poison-jab","bug-buzz","focus-blast","giga-impact","quiver-dance","low-sweep","round","echoed-voice","quick-guard","confide","lunge","speed-swap"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 796
+p.weight = 1000
+p.height = 38
+p.stats = ["83","89","71","173","71","83"]
+p.abilities = ["beast-boost"]
+p. moves = ["thunder-punch","wrap","hyper-beam","solar-beam","thunder-shock","thunderbolt","thunder-wave","thunder","toxic","hypnosis","double-team","light-screen","reflect","rest","substitute","protect","zap-cannon","swagger","spark","sleep-talk","return","frustration","hidden-power","rain-dance","sunny-day","facade","nature-power","charge","ingrain","tail-glow","signal-beam","calm-mind","shock-wave","fling","energy-ball","giga-impact","discharge","power-whip","grass-knot","charge-beam","round","volt-switch","wild-charge","ion-deluge","confide","eerie-impulse","electric-terrain","dazzling-gleam","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 797
+p.weight = 9999
+p.height = 92
+p.stats = ["97","101","103","107","101","61"]
+p.abilities = ["beast-boost"]
+p. moves = ["fly","tackle","double-edge","flamethrower","hyper-beam","absorb","mega-drain","leech-seed","solar-beam","earthquake","toxic","double-team","harden","fire-blast","skull-bash","explosion","rest","rock-slide","substitute","protect","giga-drain","swagger","sleep-talk","return","frustration","hidden-power","facade","ingrain","metal-sound","iron-defense","gyro-ball","seed-bomb","air-slash","energy-ball","giga-impact","flash-cannon","iron-head","stone-edge","grass-knot","wide-guard","autotomize","smack-down","heavy-slam","flame-charge","round","acrobatics","bulldoze","confide","smart-strike","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 798
+p.weight = 1
+p.height = 3
+p.stats = ["59","181","131","59","31","109"]
+p.abilities = ["beast-boost"]
+p. moves = ["guillotine","swords-dance","cut","razor-leaf","toxic","double-team","rest","substitute","protect","detect","false-swipe","swagger","fury-cutter","sleep-talk","return","frustration","synthesis","hidden-power","brick-break","air-cutter","aerial-ace","calm-mind","leaf-blade","night-slash","air-slash","x-scissor","vacuum-wave","giga-impact","psycho-cut","defog","round","sacred-sword","confide","laser-focus","smart-strike"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 799
+p.weight = 8880
+p.height = 55
+p.stats = ["223","101","53","97","53","43"]
+p.abilities = ["beast-boost"]
+p. moves = ["stomp","thrash","bite","flamethrower","hyper-beam","dragon-rage","earthquake","toxic","double-team","fire-blast","rest","rock-slide","substitute","thief","protect","sludge-bomb","sleep-talk","return","frustration","iron-tail","hidden-power","crunch","stockpile","swallow","facade","brick-break","rock-tomb","dragon-claw","hammer-arm","gyro-ball","payback","fling","wring-out","gastro-acid","poison-jab","dark-pulse","dragon-rush","giga-impact","shadow-claw","draco-meteor","stone-edge","wide-guard","smack-down","sludge-wave","heavy-slam","round","bulldoze","dragon-tail","steamroller","snarl","belch","brutal-swing","stomping-tantrum"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 800
+p.weight = 2300
+p.height = 24
+p.stats = ["97","107","101","127","89","79"]
+p.abilities = ["prism-armor"]
+p. moves = ["swords-dance","hyper-beam","solar-beam","thunder-wave","earthquake","toxic","confusion","psychic","double-team","light-screen","reflect","rest","rock-slide","slash","substitute","thief","protect","swagger","sleep-talk","return","frustration","metal-claw","morning-sun","moonlight","hidden-power","facade","brick-break","rock-tomb","aerial-ace","iron-defense","calm-mind","rock-blast","gravity","gyro-ball","embargo","fling","wring-out","rock-polish","dark-pulse","night-slash","x-scissor","power-gem","giga-impact","shadow-claw","psycho-cut","mirror-shot","flash-cannon","trick-room","stone-edge","stealth-rock","charge-beam","psyshock","autotomize","round","stored-power","bulldoze","confide","smart-strike","brutal-swing","prismatic-laser","photon-geyser"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 801
+p.weight = 805
+p.height = 10
+p.stats = ["80","95","115","130","115","65"]
+p.abilities = ["soul-heart"]
+p. moves = ["sonic-boom","ice-beam","psybeam","aurora-beam","hyper-beam","solar-beam","thunderbolt","thunder-wave","double-team","defense-curl","light-screen","reflect","explosion","substitute","mind-reader","protect","false-swipe","swagger","return","frustration","pain-split","hidden-power","shadow-ball","helping-hand","brick-break","iron-defense","calm-mind","gyro-ball","embargo","trump-card","lucky-chant","heart-swap","aura-sphere","focus-blast","energy-ball","giga-impact","mirror-shot","flash-cannon","trick-room","iron-head","grass-knot","charge-beam","synchronoise","round","echoed-voice","shift-gear","volt-switch","crafty-shield","confide","dazzling-gleam","gear-up","fleur-cannon"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 802
+p.weight = 222
+p.height = 7
+p.stats = ["90","125","80","90","90","125"]
+p.abilities = ["technician"]
+p. moves = ["fire-punch","ice-punch","thunder-punch","jump-kick","rolling-kick","counter","toxic","double-team","rest","rock-slide","substitute","thief","protect","false-swipe","swagger","sleep-talk","return","frustration","pursuit","hidden-power","psych-up","shadow-ball","will-o-wisp","facade","role-play","brick-break","endeavor","rock-tomb","shadow-punch","bulk-up","calm-mind","feint","close-combat","payback","assurance","fling","copycat","sucker-punch","force-palm","poison-jab","drain-punch","focus-blast","giga-impact","shadow-claw","shadow-sneak","stone-edge","grass-knot","smack-down","low-sweep","round","echoed-voice","acrobatics","work-up","confide","laser-focus","spectral-thief"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 803
+p.weight = 18
+p.height = 6
+p.stats = ["67","73","67","73","67","73"]
+p.abilities = ["beast-boost"]
+p. moves = ["fury-attack","growl","acid","peck","toxic","rest","substitute","protect","sludge-bomb","charm","sleep-talk","return","frustration","hidden-power","facade","helping-hand","poison-jab","dragon-pulse","nasty-plot","venoshock","sludge-wave","round","echoed-voice","fell-stinger","confide","venom-drench"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 804
+p.weight = 1500
+p.height = 36
+p.stats = ["73","73","73","127","73","121"]
+p.abilities = ["beast-boost"]
+p. moves = ["fly","fury-attack","growl","acid","flamethrower","hyper-beam","peck","thunderbolt","toxic","double-team","fire-blast","leech-life","rest","substitute","thief","protect","sludge-bomb","charm","sleep-talk","return","frustration","hidden-power","facade","helping-hand","air-cutter","aerial-ace","dragon-claw","u-turn","poison-jab","dark-pulse","air-slash","x-scissor","dragon-pulse","nasty-plot","shadow-claw","draco-meteor","venoshock","sludge-wave","round","echoed-voice","sky-drop","acrobatics","dragon-tail","snarl","fell-stinger","confide","venom-drench","smart-strike"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 805
+p.weight = 8200
+p.height = 55
+p.stats = ["61","131","211","53","101","13"]
+p.abilities = ["beast-boost"]
+p. moves = ["tackle","take-down","double-edge","rock-throw","earthquake","toxic","light-screen","reflect","bide","rest","rock-slide","substitute","protect","sandstorm","sleep-talk","return","frustration","safeguard","hidden-power","facade","rock-tomb","iron-defense","rock-blast","gyro-ball","rock-polish","giga-impact","flash-cannon","trick-room","iron-head","stone-edge","stealth-rock","wide-guard","autotomize","smack-down","round","bulldoze","infestation","brutal-swing"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 806
+p.weight = 130
+p.height = 18
+p.stats = ["53","127","53","151","79","107"]
+p.abilities = ["beast-boost"]
+p. moves = ["ember","flamethrower","hyper-beam","toxic","psychic","night-shade","double-team","light-screen","fire-blast","explosion","rest","substitute","thief","protect","swagger","sleep-talk","return","frustration","hidden-power","sunny-day","shadow-ball","torment","will-o-wisp","facade","taunt","trick","magic-coat","astonish","overheat","calm-mind","payback","fling","dark-pulse","shadow-claw","psyshock","smack-down","flame-burst","flame-charge","round","stored-power","quash","confide","mind-blown"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 807
+p.weight = 445
+p.height = 15
+p.stats = ["88","112","75","102","80","143"]
+p.abilities = ["volt-absorb"]
+p. moves = ["thunder-punch","scratch","thunderbolt","thunder-wave","thunder","toxic","quick-attack","double-team","fury-swipes","rest","slash","substitute","protect","false-swipe","spark","sleep-talk","return","frustration","hidden-power","fake-out","facade","charge","taunt","brick-break","aerial-ace","bulk-up","calm-mind","close-combat","fling","focus-blast","giga-impact","discharge","grass-knot","hone-claws","low-sweep","round","echoed-voice","quick-guard","acrobatics","volt-switch","work-up","wild-charge","snarl","confide","brutal-swing","plasma-fists"]
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 808
+p.weight = 80
+p.height = 2
+p.stats = ["46","65","65","55","35","34"]
+p.abilities = ["magnet-pull"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 809
+p.weight = 8000
+p.height = 25
+p.stats = ["135","143","143","80","65","34"]
+p.abilities = ["iron-fist"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 810
+p.weight = 50
+p.height = 3
+p.stats = ["50","65","50","40","40","65"]
+p.abilities = ["overgrow","grassy-surge"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 811
+p.weight = 140
+p.height = 7
+p.stats = ["70","85","70","55","60","80"]
+p.abilities = ["overgrow","grassy-surge"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 812
+p.weight = 900
+p.height = 21
+p.stats = ["100","125","90","60","70","85"]
+p.abilities = ["overgrow","grassy-surge"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 813
+p.weight = 45
+p.height = 3
+p.stats = ["50","71","40","40","40","69"]
+p.abilities = ["blaze","libero"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 814
+p.weight = 90
+p.height = 6
+p.stats = ["65","86","60","55","60","94"]
+p.abilities = ["blaze","libero"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 815
+p.weight = 330
+p.height = 14
+p.stats = ["80","116","75","65","75","119"]
+p.abilities = ["blaze","libero"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 816
+p.weight = 40
+p.height = 3
+p.stats = ["50","40","40","70","40","70"]
+p.abilities = ["torrent","sniper"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 817
+p.weight = 115
+p.height = 7
+p.stats = ["65","60","55","95","55","90"]
+p.abilities = ["torrent","sniper"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 818
+p.weight = 452
+p.height = 19
+p.stats = ["70","85","65","125","65","120"]
+p.abilities = ["torrent","sniper"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 819
+p.weight = 25
+p.height = 3
+p.stats = ["70","55","55","35","35","25"]
+p.abilities = ["cheek-pouch","gluttony"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 820
+p.weight = 60
+p.height = 6
+p.stats = ["120","95","95","55","75","20"]
+p.abilities = ["cheek-pouch","gluttony"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 821
+p.weight = 18
+p.height = 2
+p.stats = ["38","47","35","33","35","57"]
+p.abilities = ["keen-eye","unnerve","big-pecks"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 822
+p.weight = 160
+p.height = 8
+p.stats = ["68","67","55","43","55","77"]
+p.abilities = ["keen-eye","unnerve","big-pecks"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 823
+p.weight = 750
+p.height = 22
+p.stats = ["98","87","105","53","85","67"]
+p.abilities = ["pressure","unnerve","mirror-armor"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 824
+p.weight = 80
+p.height = 4
+p.stats = ["25","20","20","25","45","45"]
+p.abilities = ["swarm","compound-eyes","telepathy"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 825
+p.weight = 195
+p.height = 4
+p.stats = ["50","35","80","50","90","30"]
+p.abilities = ["swarm","compound-eyes","telepathy"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 826
+p.weight = 408
+p.height = 4
+p.stats = ["60","45","110","80","120","90"]
+p.abilities = ["swarm","frisk","telepathy"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 827
+p.weight = 89
+p.height = 6
+p.stats = ["40","28","28","47","52","50"]
+p.abilities = ["run-away","unburden","stakeout"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 828
+p.weight = 199
+p.height = 12
+p.stats = ["70","58","58","87","92","90"]
+p.abilities = ["run-away","unburden","stakeout"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 829
+p.weight = 22
+p.height = 4
+p.stats = ["40","40","60","40","60","10"]
+p.abilities = ["cotton-down","regenerator","effect-spore"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 830
+p.weight = 25
+p.height = 5
+p.stats = ["60","50","90","80","120","60"]
+p.abilities = ["cotton-down","regenerator","effect-spore"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 831
+p.weight = 60
+p.height = 6
+p.stats = ["42","40","55","40","45","48"]
+p.abilities = ["fluffy","run-away","bulletproof"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 832
+p.weight = 430
+p.height = 13
+p.stats = ["72","80","100","60","90","88"]
+p.abilities = ["fluffy","run-away","bulletproof"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 833
+p.weight = 85
+p.height = 3
+p.stats = ["50","64","50","38","38","44"]
+p.abilities = ["strong-jaw","shell-armor","swift-swim"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 834
+p.weight = 1155
+p.height = 10
+p.stats = ["90","115","90","48","68","74"]
+p.abilities = ["strong-jaw","shell-armor","swift-swim"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 835
+p.weight = 135
+p.height = 3
+p.stats = ["59","45","50","40","50","26"]
+p.abilities = ["ball-fetch","rattled"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 836
+p.weight = 340
+p.height = 10
+p.stats = ["69","90","60","90","60","121"]
+p.abilities = ["strong-jaw","competitive"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 837
+p.weight = 120
+p.height = 3
+p.stats = ["30","40","50","40","50","30"]
+p.abilities = ["steam-engine","heatproof","flash-fire"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 838
+p.weight = 780
+p.height = 11
+p.stats = ["80","60","90","60","70","50"]
+p.abilities = ["steam-engine","flame-body","flash-fire"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 839
+p.weight = 3105
+p.height = 28
+p.stats = ["110","80","120","80","90","30"]
+p.abilities = ["steam-engine","flame-body","flash-fire"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 840
+p.weight = 5
+p.height = 2
+p.stats = ["40","40","80","40","40","20"]
+p.abilities = ["ripen","gluttony","bulletproof"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 841
+p.weight = 10
+p.height = 3
+p.stats = ["70","110","80","95","60","70"]
+p.abilities = ["ripen","gluttony","hustle"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 842
+p.weight = 130
+p.height = 4
+p.stats = ["110","85","80","100","80","30"]
+p.abilities = ["ripen","gluttony","thick-fat"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 843
+p.weight = 76
+p.height = 22
+p.stats = ["52","57","75","35","50","46"]
+p.abilities = ["sand-spit","shed-skin","sand-veil"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 844
+p.weight = 655
+p.height = 38
+p.stats = ["72","107","125","65","70","71"]
+p.abilities = ["sand-spit","shed-skin","sand-veil"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 845
+p.weight = 180
+p.height = 8
+p.stats = ["70","85","55","85","95","85"]
+p.abilities = ["gulp-missile"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 846
+p.weight = 10
+p.height = 5
+p.stats = ["41","63","40","40","30","66"]
+p.abilities = ["swift-swim","propeller-tail"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 847
+p.weight = 300
+p.height = 13
+p.stats = ["61","123","60","60","50","136"]
+p.abilities = ["swift-swim","propeller-tail"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 848
+p.weight = 110
+p.height = 4
+p.stats = ["40","38","35","54","35","40"]
+p.abilities = ["rattled","static","klutz"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 849
+p.weight = 400
+p.height = 16
+p.stats = ["75","98","70","114","70","75"]
+p.abilities = ["punk-rock","plus","technician"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 850
+p.weight = 10
+p.height = 7
+p.stats = ["50","65","45","50","50","45"]
+p.abilities = ["flash-fire","white-smoke","flame-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 851
+p.weight = 1200
+p.height = 30
+p.stats = ["100","115","65","90","90","65"]
+p.abilities = ["flash-fire","white-smoke","flame-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 852
+p.weight = 40
+p.height = 6
+p.stats = ["50","68","60","50","50","32"]
+p.abilities = ["limber","technician"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 853
+p.weight = 390
+p.height = 16
+p.stats = ["80","118","90","70","80","42"]
+p.abilities = ["limber","technician"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 854
+p.weight = 2
+p.height = 1
+p.stats = ["40","45","45","74","54","50"]
+p.abilities = ["weak-armor","cursed-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 855
+p.weight = 4
+p.height = 2
+p.stats = ["60","65","65","134","114","70"]
+p.abilities = ["weak-armor","cursed-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 856
+p.weight = 34
+p.height = 4
+p.stats = ["42","30","45","56","53","39"]
+p.abilities = ["healer","anticipation","magic-bounce"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 857
+p.weight = 48
+p.height = 6
+p.stats = ["57","40","65","86","73","49"]
+p.abilities = ["healer","anticipation","magic-bounce"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 858
+p.weight = 51
+p.height = 21
+p.stats = ["57","90","95","136","103","29"]
+p.abilities = ["healer","anticipation","magic-bounce"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 859
+p.weight = 55
+p.height = 4
+p.stats = ["45","45","30","55","40","50"]
+p.abilities = ["prankster","frisk","pickpocket"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 860
+p.weight = 125
+p.height = 8
+p.stats = ["65","60","45","75","55","70"]
+p.abilities = ["prankster","frisk","pickpocket"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 861
+p.weight = 610
+p.height = 15
+p.stats = ["95","120","65","95","75","60"]
+p.abilities = ["prankster","frisk","pickpocket"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 862
+p.weight = 460
+p.height = 16
+p.stats = ["93","90","101","60","81","95"]
+p.abilities = ["reckless","guts","defiant"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 863
+p.weight = 280
+p.height = 8
+p.stats = ["70","110","100","50","60","50"]
+p.abilities = ["battle-armor","tough-claws","steely-spirit"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 864
+p.weight = 4
+p.height = 10
+p.stats = ["60","95","50","145","130","30"]
+p.abilities = ["weak-armor","perish-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 865
+p.weight = 1170
+p.height = 8
+p.stats = ["62","135","95","68","82","65"]
+p.abilities = ["steadfast","scrappy"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 866
+p.weight = 582
+p.height = 15
+p.stats = ["80","85","75","110","100","70"]
+p.abilities = ["tangled-feet","screen-cleaner","ice-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 867
+p.weight = 666
+p.height = 16
+p.stats = ["58","95","145","50","105","30"]
+p.abilities = ["wandering-spirit"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 868
+p.weight = 3
+p.height = 2
+p.stats = ["45","40","40","50","61","34"]
+p.abilities = ["sweet-veil","aroma-veil"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 869
+p.weight = 5
+p.height = 3
+p.stats = ["65","60","75","110","121","64"]
+p.abilities = ["sweet-veil","aroma-veil"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 870
+p.weight = 620
+p.height = 30
+p.stats = ["65","100","100","70","60","75"]
+p.abilities = ["battle-armor","defiant"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 871
+p.weight = 10
+p.height = 3
+p.stats = ["48","101","95","91","85","15"]
+p.abilities = ["lightning-rod","electric-surge"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 872
+p.weight = 38
+p.height = 3
+p.stats = ["30","25","35","45","30","20"]
+p.abilities = ["shield-dust","ice-scales"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 873
+p.weight = 420
+p.height = 13
+p.stats = ["70","65","60","125","90","65"]
+p.abilities = ["shield-dust","ice-scales"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 874
+p.weight = 5200
+p.height = 25
+p.stats = ["100","125","135","20","20","70"]
+p.abilities = ["power-spot"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 875
+p.weight = 890
+p.height = 14
+p.stats = ["75","80","110","65","90","50"]
+p.abilities = ["ice-face"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 876
+p.weight = 280
+p.height = 9
+p.stats = ["60","65","55","105","95","95"]
+p.abilities = ["inner-focus","synchronize","psychic-surge"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 877
+p.weight = 30
+p.height = 3
+p.stats = ["58","95","58","70","58","97"]
+p.abilities = ["hunger-switch"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 878
+p.weight = 1000
+p.height = 12
+p.stats = ["72","80","49","40","49","40"]
+p.abilities = ["sheer-force","heavy-metal"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 879
+p.weight = 6500
+p.height = 30
+p.stats = ["122","130","69","80","69","30"]
+p.abilities = ["sheer-force","heavy-metal"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 880
+p.weight = 1900
+p.height = 18
+p.stats = ["90","100","90","80","70","75"]
+p.abilities = ["volt-absorb","hustle","sand-rush"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 881
+p.weight = 1500
+p.height = 23
+p.stats = ["90","100","90","90","80","55"]
+p.abilities = ["volt-absorb","static","slush-rush"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 882
+p.weight = 2150
+p.height = 23
+p.stats = ["90","90","100","70","80","75"]
+p.abilities = ["water-absorb","strong-jaw","sand-rush"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 883
+p.weight = 1750
+p.height = 20
+p.stats = ["90","90","100","80","90","55"]
+p.abilities = ["water-absorb","ice-body","slush-rush"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 884
+p.weight = 400
+p.height = 18
+p.stats = ["70","95","115","120","50","85"]
+p.abilities = ["light-metal","heavy-metal","stalwart"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 885
+p.weight = 20
+p.height = 5
+p.stats = ["28","60","30","40","30","82"]
+p.abilities = ["clear-body","infiltrator","cursed-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 886
+p.weight = 110
+p.height = 14
+p.stats = ["68","80","50","60","50","102"]
+p.abilities = ["clear-body","infiltrator","cursed-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 887
+p.weight = 500
+p.height = 30
+p.stats = ["88","120","75","100","75","142"]
+p.abilities = ["clear-body","infiltrator","cursed-body"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 888
+p.weight = 1100
+p.height = 28
+p.stats = ["92","130","115","80","115","138"]
+p.abilities = ["intrepid-sword"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 889
+p.weight = 2100
+p.height = 29
+p.stats = ["92","130","115","80","115","138"]
+p.abilities = ["dauntless-shield"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 890
+p.weight = 9500
+p.height = 200
+p.stats = ["140","85","95","145","95","130"]
+p.abilities = ["pressure"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 891
+p.weight = 120
+p.height = 6
+p.stats = ["60","90","60","53","50","72"]
+p.abilities = ["inner-focus"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 892
+p.weight = 1050
+p.height = 19
+p.stats = ["100","130","100","63","60","97"]
+p.abilities = ["unseen-fist"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 893
+p.weight = 700
+p.height = 18
+p.stats = ["105","120","105","70","95","105"]
+p.abilities = ["leaf-guard"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 894
+p.weight = 1450
+p.height = 12
+p.stats = ["80","100","50","100","50","200"]
+p.abilities = ["transistor"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 895
+p.weight = 2000
+p.height = 21
+p.stats = ["200","100","50","100","50","80"]
+p.abilities = ["dragons-maw"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 896
+p.weight = 8000
+p.height = 22
+p.stats = ["100","145","130","65","110","30"]
+p.abilities = ["chilling-neigh"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 897
+p.weight = 445
+p.height = 20
+p.stats = ["100","65","60","145","80","130"]
+p.abilities = ["grim-neigh"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
+p.pokemon_id = 898
+p.weight = 77
+p.height = 11
+p.stats = ["100","80","80","80","80","80"]
+p.abilities = ["unnerve"]
+p. moves = []
+p.save
+
+p = PokemonInfo.new
