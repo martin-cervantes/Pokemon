@@ -39,7 +39,7 @@ const PokemonsList = ({
             .map(pokemon => <Pokemon key={uuidv4()} data={pokemon} />)
         }
       </div>
-      { count <= 650 ? <Link type="button" className="add_more_button button" to="/" onClick={() => addMorePokemons()}>More Pokemons</Link> : '' }
+      { count <= 900 ? <Link type="button" className="add_more_button button" to="/" onClick={() => addMorePokemons()}>More Pokemons</Link> : '' }
     </div>
   );
 };

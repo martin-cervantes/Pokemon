@@ -12,7 +12,7 @@ const App = ({ fetchPokemons }) => {
 
   const addMorePokemons = () => {
     setCount(count + 50);
-    if (count <= 650) fetchPokemons(count);
+    if (count <= 900) fetchPokemons(count);
     window.scrollTo(0, 0);
   };
 
