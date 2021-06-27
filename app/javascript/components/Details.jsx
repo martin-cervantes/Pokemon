@@ -95,7 +95,7 @@ class Details extends React.Component {
         <div className="section2">
           <strong className="underline">Moves:</strong>
           <ul>
-            { moves.map(m => <li key={uuidv4()}>{m}</li>) }
+            { moves.length === 0 ? "Unknown information" : moves.map(m => <li key={uuidv4()}>{m}</li>) }
           </ul>
         </div>
 
